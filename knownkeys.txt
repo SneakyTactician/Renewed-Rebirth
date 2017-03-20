@@ -134,3 +134,40 @@ keybind.railcraft.loco.faster
 keybind.railcraft.loco.slower
 keybind.railcraft.loco.mode
 keybind.railcraft.loco.whistle
+quark.emote.wave
+quark.emote.salute
+quark.emote.yes
+quark.emote.no
+quark.emote.cheer
+quark.emote.clap
+quark.emote.point
+quark.emote.shrug
+quark.emote.facepalm
+quark.emote.headbang
+key.davincis.up
+key.davincis.down
+key.davincis.brake
+key.davincis.align
+key.davincis.decompile
+key.davincis.shipinv
+ingameinfoxml.key.toggle
+Open Backpack
+Equip/Unequip Backpack
+Mount Ability
+Mount Inventory
+Lycanites Mobs Main Menu
+Beastiary
+Pet Manager
+Mount Manager
+Familiar Manager
+Minion Manager
+Minion Selection
+simplyjetpacks.keybind.engine
+simplyjetpacks.keybind.hover
+simplyjetpacks.keybind.charger
+simplyjetpacks.keybind.emergencyhover
+key.integrateddynamics.logicProgrammerFocusSearch
+key.integrateddynamics.logicProgrammerOpenRename
+key.modifier
+key.submode
+key.craftingGrid

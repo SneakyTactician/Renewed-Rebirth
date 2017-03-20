@@ -32,9 +32,25 @@ key_ALT Key:56:NONE
 key_Boost Key:29:NONE
 key_Mode Switch Key:50:NONE
 key_Side Inventory Key:46:NONE
-key_Hub Expand Key:45:NONE
+key_Hub Expand Key:40:NONE
 key_psimisc.keybind:46:NONE
 key_quark.keybind.toggleAutojump:48:NONE
+key_quark.emote.wave:0:NONE
+key_quark.emote.salute:0:NONE
+key_quark.emote.yes:0:NONE
+key_quark.emote.no:0:NONE
+key_quark.emote.cheer:0:NONE
+key_quark.emote.clap:0:NONE
+key_quark.emote.point:0:NONE
+key_quark.emote.shrug:0:NONE
+key_quark.emote.facepalm:0:NONE
+key_quark.emote.headbang:0:NONE
+key_key.davincis.up:45:NONE
+key_key.davincis.down:44:NONE
+key_key.davincis.brake:46:NONE
+key_key.davincis.align:13:NONE
+key_key.davincis.decompile:43:NONE
+key_key.davincis.shipinv:37:NONE
 key_enderio.keybind.glidertoggle:34:NONE
 key_enderio.keybind.soundlocator:38:NONE
 key_enderio.keybind.nightvision:25:NONE
@@ -52,6 +68,22 @@ key_enderio.keybind.fovplusfast:0:NONE
 key_enderio.keybind.fovminusfast:0:NONE
 key_enderutilities.key.togglemode:34:NONE
 key_Gravi Fly Key:33:NONE
+key_ingameinfoxml.key.toggle:0:NONE
+key_Open Backpack:46:NONE
+key_Equip/Unequip Backpack:47:NONE
+key_Mount Ability:40:NONE
+key_Mount Inventory:0:NONE
+key_Lycanites Mobs Main Menu:34:NONE
+key_Beastiary:0:NONE
+key_Pet Manager:0:NONE
+key_Mount Manager:0:NONE
+key_Familiar Manager:0:NONE
+key_Minion Manager:0:NONE
+key_Minion Selection:19:NONE
+key_simplyjetpacks.keybind.engine:34:NONE
+key_simplyjetpacks.keybind.hover:38:NONE
+key_simplyjetpacks.keybind.charger:25:NONE
+key_simplyjetpacks.keybind.emergencyhover:19:NONE
 key_key.rscircuits:monocle:44:NONE
 key_veinminer.key.enable:41:NONE
 key_key.jei.toggleOverlay:24:CONTROL
@@ -111,25 +143,30 @@ key_key.craftingtweaks.decompressStack:0:NONE
 key_key.craftingtweaks.decompressAll:0:NONE
 key_key.placeItem:25:NONE
 key_key.toolConfig:46:NONE
-key_key.toolProfileChange:43:NONE
+key_key.toolProfileChange:40:NONE
 key_keybinding.extrabitmanipulation.bitmapping.gui:19:NONE
 key_keybinding.extrabitmanipulation.shift:0:NONE
 key_keybinding.extrabitmanipulation.control:0:NONE
 key_keybinding.extrabitmanipulation.alt:0:NONE
+key_key.integrateddynamics.logicProgrammerFocusSearch:33:ALT
+key_key.integrateddynamics.logicProgrammerOpenRename:19:ALT
 key_invtweaks.key.sort:19:NONE
 key_Mekanism Item Mode Switch:50:NONE
 key_Mekanism Armor Mode Switch:33:NONE
 key_Mekanism Voice:22:NONE
+key_key.modifier:13:NONE
+key_key.submode:0:NONE
 key_key.porterNextDestination:27:NONE
 key_key.porterPrevDestination:26:NONE
 key_key.toggleLiquids:38:NONE
 key_key.toggleVisible:0:NONE
+key_key.craftingGrid:46:NONE
 key_key.journeymap.map_toggle:36:NONE
 key_key.journeymap.zoom_in:13:NONE
 key_key.journeymap.zoom_out:12:NONE
 key_key.journeymap.minimap_type:27:NONE
 key_key.journeymap.minimap_type:27:NONE
-key_key.journeymap.minimap_preset:43:NONE
+key_key.journeymap.minimap_preset:40:NONE
 key_key.journeymap.create_waypoint:48:NONE
 key_keybind.railcraft.loco.reverse:53:ALT
 key_keybind.railcraft.loco.faster:52:ALT

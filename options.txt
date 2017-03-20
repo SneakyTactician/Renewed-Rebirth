@@ -88,6 +88,16 @@ key_Side Inventory Key:46
 key_Hub Expand Key:40
 key_psimisc.keybind:46
 key_quark.keybind.toggleAutojump:48
+key_quark.emote.wave:0
+key_quark.emote.salute:0
+key_quark.emote.yes:0
+key_quark.emote.no:0
+key_quark.emote.cheer:0
+key_quark.emote.clap:0
+key_quark.emote.point:0
+key_quark.emote.shrug:0
+key_quark.emote.facepalm:0
+key_quark.emote.headbang:0
 key_key.davincis.up:45
 key_key.davincis.down:44
 key_key.davincis.brake:46
@@ -127,7 +137,7 @@ key_simplyjetpacks.keybind.engine:34
 key_simplyjetpacks.keybind.hover:38
 key_simplyjetpacks.keybind.charger:25
 key_simplyjetpacks.keybind.emergencyhover:19
-key_key.rscircuits:monocle:40
+key_key.rscircuits:monocle:44
 key_veinminer.key.enable:41
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -216,20 +226,6 @@ key_keybind.railcraft.loco.faster:52:ALT
 key_keybind.railcraft.loco.slower:51:ALT
 key_keybind.railcraft.loco.mode:50:ALT
 key_keybind.railcraft.loco.whistle:49:ALT
-key_BetterFps:88
-key_nei.options.keys.gui.enchant:40
-key_nei.options.keys.gui.potion:25
-key_nei.options.keys.gui.prev:201
-key_nei.options.keys.gui.next:209
-key_nei.options.keys.world.chunkoverlay:67
-key_nei.options.keys.world.moboverlay:65
-key_nei.options.keys.world.dawn:0
-key_nei.options.keys.world.noon:0
-key_nei.options.keys.world.dusk:0
-key_nei.options.keys.world.midnight:0
-key_nei.options.keys.world.rain:0
-key_nei.options.keys.world.heal:0
-key_nei.options.keys.world.creative:0
 soundCategory_master:0.5562914
 soundCategory_music:0.0
 soundCategory_record:1.0
