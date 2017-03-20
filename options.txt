@@ -15,8 +15,8 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:true
-resourcePacks:["Soartex_Fanver.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["The End Resource Pack","Soartex_Fanver.zip"]
+incompatibleResourcePacks:["The End Resource Pack"]
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -226,6 +226,7 @@ key_keybind.railcraft.loco.faster:52:ALT
 key_keybind.railcraft.loco.slower:51:ALT
 key_keybind.railcraft.loco.mode:50:ALT
 key_keybind.railcraft.loco.whistle:49:ALT
+key_BetterFps:88
 soundCategory_master:0.5562914
 soundCategory_music:0.0
 soundCategory_record:1.0
