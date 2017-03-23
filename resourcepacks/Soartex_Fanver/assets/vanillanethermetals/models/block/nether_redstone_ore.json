@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "lithos_mod:blocks/orenether_redstone"
+    }
+}

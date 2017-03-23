@@ -1,0 +1,50 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"model": "immersiveengineering:ieSlab",
+		"textures": {
+			"all": "lithos_mod:blocks/blockslab_copper",
+			"bottom": "#all",
+			"top": "#all",
+			"side": "#all",
+			"particle": "#all"
+		}
+	},
+	"variants":
+	{
+		"inventory,type=copper": [{"textures": {"all": "lithos_mod:blocks/blockslab_copper"}}],
+		"inventory,type=aluminum": [{"textures": {"all": "lithos_mod:blocks/blockslab_aluminum"}}],
+		"inventory,type=lead": [{"textures": {"all": "lithos_mod:blocks/blockslab_lead"}}],
+		"inventory,type=silver": [{"textures": {"all": "lithos_mod:blocks/blockslab_silver"}}],
+		"inventory,type=nickel": [{"textures": {"all": "lithos_mod:blocks/blockslab_nickel"}}],
+		"inventory,type=uranium": [{"textures": { "all": "lithos_mod:blocks/block_uranium"}}],
+		"inventory,type=constantan": [{"textures": {"all": "immersiveengineering:blocks/storage_constantan"}}],
+		"inventory,type=electrum": [{"textures": {"all": "lithos_mod:blocks/blockslab_electrum"}}],
+		"inventory,type=steel": [{"textures": {"all": "lithos_mod:blocks/blockslab_steel"}}],
+		"type":
+		{
+			"copper": {"textures": {"all": "lithos_mod:blocks/blockslab_copper"}},
+			"aluminum": {"textures": {"all": "lithos_mod:blocks/blockslab_aluminum"}},
+			"lead": {"textures": {"all": "lithos_mod:blocks/blockslab_lead"}},
+			"silver": {"textures": {"all": "lithos_mod:blocks/blockslab_silver"}},
+			"nickel": {"textures": {"all": "lithos_mod:blocks/blockslab_nickel"}},
+			"uranium": {"textures": { "all": "lithos_mod:blocks/block_uranium"}},
+			"constantan": {"textures": {"all": "immersiveengineering:blocks/storage_constantan"}},
+			"electrum": {"textures": {"all": "lithos_mod:blocks/blockslab_electrum"}},
+			"steel": {"textures": {"all": "lithos_mod:blocks/blockslab_steel"}}
+		},
+		"slabtype":
+		{
+			0: {},
+			1: {
+				"x": 180,
+				"uvlock": true
+			},
+			2: {
+				"model": "cube_all"
+			}
+		}
+	}
+}

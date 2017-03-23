@@ -1,0 +1,72 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+"ambientocclusion": false,
+    "parent": "block/block",
+    "textures": {
+        "particle": "blocks/cactus_side",
+        "0": "biomesoplenty:blocks/tinycactus"
+    },
+    "elements": [
+        {
+            "name": "center",
+            "from": [ 6.0, 0.0, 6.0 ], 
+            "to": [ 10.0, 8.0, 10.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 9.0, 7.0, 16.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 9.0, 7.0, 16.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 9.0, 7.0, 16.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 9.0, 7.0, 16.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.5, 0.5, 6.5, 6.5 ] }
+            }
+        },
+        {
+            "name": "NS spine",
+            "from": [ 8.0, 0.0, 5.0 ], 
+            "to": [ 8.0, 8.0, 11.0 ], 
+            "faces": {
+                "east": { "texture": "#0", "uv": [ 16.0, 8.0, 8.0, 16.0 ] },
+                "west": { "texture": "#0", "uv": [ 9.0, 8.0, 16.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "EW spine",
+            "from": [ 5.0, 0.0, 8.0 ], 
+            "to": [ 11.0, 8.0, 8.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 9.0, 8.0, 16.0, 16.0 ] },
+                "south": { "texture": "#0", "uv": [ 16.0, 8.0, 9.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "middle bit",
+            "from": [ 5.0, 2.0, 5.0 ], 
+            "to": [ 11.0, 7.0, 11.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 9.0, 7.0, 16.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 9.0, 7.0, 16.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 9.0, 7.0, 16.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 9.0, 7.0, 16.0 ] },
+                "up": { "texture": "#0", "uv": [ 9.5, 0.5, 15.5, 6.5 ] },
+                "down": { "texture": "#0", "uv": [ 9.5, 0.5, 15.5, 6.5 ] }
+            }
+        },
+        {
+            "name": "EW spine",
+            "from": [ 3.5, 2.0, 8.0 ], 
+            "to": [ 12.0, 7.0, 8.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 9.0, 10.0, 16.0, 16.0 ] },
+                "south": { "texture": "#0", "uv": [ 16.0, 10.0, 9.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "NS spine",
+            "from": [ 8.0, 2.0, 3.5 ], 
+            "to": [ 8.0, 7.0, 12.0 ], 
+            "faces": {
+                "east": { "texture": "#0", "uv": [ 9.0, 15.0, 16.0, 8.0 ] },
+                "west": { "texture": "#0", "uv": [ 16.0, 15.0, 9.0, 8.0 ] }
+            }
+        }
+    ]
+}

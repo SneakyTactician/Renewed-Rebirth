@@ -1,0 +1,6 @@
+{
+    "parent": "block/trapdoor_top",
+    "textures": {
+        "texture": "lithos_mod:blocks/block_cold_iron"
+    }
+}

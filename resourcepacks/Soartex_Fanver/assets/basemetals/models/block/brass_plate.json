@@ -1,0 +1,8 @@
+{
+    "parent": "basemetals:block/plate",
+    "textures": {
+        "top": "lithos_mod:blocks/block_brass",
+        "side": "lithos_mod:blocks/block_brass",
+        "bottom": "lithos_mod:blocks/block_brass"
+    }
+}

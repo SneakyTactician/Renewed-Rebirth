@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/upper_slab",
+  "textures":
+  {
+    "bottom": "lithos_mod:blocks/block_copper",
+    "top": "lithos_mod:blocks/block_copper",
+    "side": "lithos_mod:blocks/blockslab_copper"
+  }
+}

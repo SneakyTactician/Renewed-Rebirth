@@ -1,0 +1,61 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "quark:blocks/bed/feet_top_color",
+        "bottom": "minecraft:blocks/planks_oak",
+        "top": "quark:blocks/bed/feet_top",
+        "end": "quark:blocks/bed/feet_end",
+        "side": "quark:blocks/bed/feet_side",
+        "top_c": "quark:blocks/bed/feet_top_color",
+        "end_c": "quark:blocks/bed/feet_end_color",
+        "side_c": "quark:blocks/bed/feet_side_color"
+    },
+    "elements": [
+        {
+            "name": "Cover",
+            "from": [ 0.0, 3.0, 0.0 ], 
+            "to": [ 16.0, 9.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#end_c", "uv": [ 0.0, 7.0, 16.0, 13.0 ], "tintindex": 0 },
+                "east": { "texture": "#side_c", "uv": [ 16.0, 7.0, 0.0, 13.0 ], "tintindex": 0 },
+                "west": { "texture": "#side_c", "uv": [ 0.0, 7.0, 16.0, 13.0 ], "tintindex": 0 },
+                "up": { "texture": "#top_c", "uv": [ 0.0, 16.0, 16.0, 0.0 ], "tintindex": 0, "rotation": 90 }
+            }
+        },
+        {
+            "name": "Base",
+            "from": [ 0.0, 3.0, 0.0 ], 
+            "to": [ 16.0, 9.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#end", "uv": [ 0.0, 7.0, 16.0, 13.0 ] },
+                "east": { "texture": "#side", "uv": [ 16.0, 7.0, 0.0, 13.0 ] },
+                "west": { "texture": "#side", "uv": [ 0.0, 7.0, 16.0, 13.0 ] },
+                "down": { "texture": "#bottom", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "Leg",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 2.5, 3.0, 2.5 ], 
+            "faces": {
+                "north": { "texture": "#end", "uv": [ 13.5, 13.0, 16.0, 16.0 ] },
+                "east": { "texture": "#end", "uv": [ 13.5, 13.0, 16.0, 16.0 ] },
+                "south": { "texture": "#end", "uv": [ 0.0, 13.0, 2.5, 16.0 ] },
+                "west": { "texture": "#end", "uv": [ 0.0, 13.0, 2.5, 16.0 ] },
+                "down": { "texture": "#bottom", "uv": [ 13.5, 13.5, 16.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "Leg",
+            "from": [ 13.5, 0.0, 0.0 ], 
+            "to": [ 16.0, 3.0, 2.5 ], 
+            "faces": {
+                "north": { "texture": "#end", "uv": [ 0.0, 13.0, 2.5, 16.0 ] },
+                "east": { "texture": "#end", "uv": [ 2.5, 13.0, 0.0, 16.0 ] },
+                "south": { "texture": "#end", "uv": [ 0.0, 13.0, 2.5, 16.0 ] },
+                "west": { "texture": "#end", "uv": [ 13.5, 13.0, 16.0, 16.0 ] },
+                "down": { "texture": "#bottom", "uv": [ 0.0, 13.5, 2.5, 16.0 ] }
+            }
+        }
+    ]
+}

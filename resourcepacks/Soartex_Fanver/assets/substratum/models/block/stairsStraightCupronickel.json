@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures":
+  {
+    "bottom": "lithos_mod:blocks/block_cupronickel",
+    "top": "lithos_mod:blocks/block_cupronickel",
+    "side": "lithos_mod:blocks/block_cupronickel"
+  }
+}

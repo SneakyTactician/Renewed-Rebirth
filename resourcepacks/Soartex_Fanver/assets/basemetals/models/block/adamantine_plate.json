@@ -1,0 +1,8 @@
+{
+    "parent": "basemetals:block/plate",
+    "textures": {
+        "top": "lithos_mod:blocks/block_adamantite",
+        "side": "lithos_mod:blocks/block_adamantite",
+        "bottom": "lithos_mod:blocks/block_adamantite"
+    }
+}

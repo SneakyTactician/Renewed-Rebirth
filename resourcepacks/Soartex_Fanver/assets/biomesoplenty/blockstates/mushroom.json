@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "variant=toadstool": [{ "model": "biomesoplenty:toadstool" }, { "model": "biomesoplenty:toadstool", "y": 90 }, { "model": "biomesoplenty:toadstool", "y": 180 }, { "model": "biomesoplenty:toadstool", "y": 270 }],
+        "variant=portobello": [{ "model": "biomesoplenty:portobello" }, { "model": "biomesoplenty:portobello", "y": 90 }, { "model": "biomesoplenty:portobello", "y": 180 }, { "model": "biomesoplenty:portobello", "y": 270 }],
+        "variant=blue_milk_cap": [{ "model": "biomesoplenty:blue_milk_cap" }, { "model": "biomesoplenty:blue_milk_cap", "y": 90 }, { "model": "biomesoplenty:blue_milk_cap", "y": 180 }, { "model": "biomesoplenty:blue_milk_cap", "y": 270 }],
+        "variant=glowshroom": [{ "model": "biomesoplenty:glowshroom" }, { "model": "biomesoplenty:glowshroom", "y": 90 }, { "model": "biomesoplenty:glowshroom", "y": 180 }, { "model": "biomesoplenty:glowshroom", "y": 270 }],
+        "variant=flat_mushroom": [{ "model": "biomesoplenty:flat_mushroom" }, { "model": "biomesoplenty:flat_mushroom", "y": 90 }, { "model": "biomesoplenty:flat_mushroom", "y": 180 }, { "model": "biomesoplenty:flat_mushroom", "y": 270 }],
+        "variant=shadow_shroom": [{ "model": "biomesoplenty:shadow_shroom" }, { "model": "biomesoplenty:shadow_shroom", "y": 90 }, { "model": "biomesoplenty:shadow_shroom", "y": 180 }, { "model": "biomesoplenty:shadow_shroom", "y": 270 }]
+    }
+}

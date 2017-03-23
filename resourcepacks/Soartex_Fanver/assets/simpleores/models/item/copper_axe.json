@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "lithos_mod:items/copper_axe"
+    }
+}

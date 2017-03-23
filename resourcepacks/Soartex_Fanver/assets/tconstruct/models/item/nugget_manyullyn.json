@@ -1,0 +1,6 @@
+{
+    "parent": "tconstruct:item/defaultitem",
+    "textures": {
+        "layer0": "lithos_mod:items/nugget_manyullyn"
+    }
+}

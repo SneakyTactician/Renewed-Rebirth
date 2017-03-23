@@ -1,0 +1,8 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "lithos_mod:items/copper_bucket",
+        "layer1": "lithos_mod:items/fluid_water",
+        "layer2": "lithos_mod:items/copper_bucket_cover"
+	}
+}

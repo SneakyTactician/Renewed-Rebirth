@@ -1,0 +1,20 @@
+{
+"textures": {
+    "particle": "blocks/iron_bars",
+    "bars": "blocks/iron_bars"
+},
+"elements": [ 
+{
+    "from": [ 7.25, 0, 7.25 ],
+    "to": [ 8.75, 16, 8.75 ],
+    "faces": {
+        "down":  { "uv": [ 7.25, 7.25, 8.75, 8.75 ], "texture": "#bars" },
+        "up":    { "uv": [ 7.25, 7.25, 8.75, 8.75 ], "texture": "#bars" },
+        "north": { "uv": [ 7.25, 0, 8.75, 16 ], "texture": "#bars" },
+        "south": { "uv": [ 7.25, 0, 8.75, 16 ], "texture": "#bars" },
+        "west":  { "uv": [ 7.25, 0, 8.75, 16 ], "texture": "#bars" },
+        "east":  { "uv": [ 7.25, 0, 8.75, 16 ], "texture": "#bars" }
+    }
+}
+]
+}
