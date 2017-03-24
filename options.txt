@@ -124,6 +124,15 @@ key_Gravi Fly Key:33
 key_ingameinfoxml.key.toggle:0
 key_Open Backpack:46
 key_Equip/Unequip Backpack:47
+key_Mount Ability:45
+key_Mount Inventory:0
+key_Lycanites Mobs Main Menu:34
+key_Beastiary:0
+key_Pet Manager:0
+key_Mount Manager:0
+key_Familiar Manager:0
+key_Minion Manager:0
+key_Minion Selection:19
 key_simplyjetpacks.keybind.engine:34
 key_simplyjetpacks.keybind.hover:38
 key_simplyjetpacks.keybind.charger:25
@@ -231,7 +240,7 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-soundCategory_master:0.5562914
+soundCategory_master:0.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
