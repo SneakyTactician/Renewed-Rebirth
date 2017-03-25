@@ -87,6 +87,17 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
+key_quark.emote.wave:0
+key_quark.emote.salute:0
+key_quark.emote.yes:0
+key_quark.emote.no:0
+key_quark.emote.cheer:0
+key_quark.emote.clap:0
+key_quark.emote.point:0
+key_quark.emote.shrug:0
+key_quark.emote.facepalm:0
+key_quark.emote.headbang:0
+key_quark.keybind.toggleAutojump:48
 key_enderio.keybind.glidertoggle:34
 key_enderio.keybind.soundlocator:38
 key_enderio.keybind.nightvision:25
@@ -105,6 +116,8 @@ key_enderio.keybind.fovminusfast:0
 key_key.ftbu.guide:0
 key_key.ftbu.warp:0
 key_Gravi Fly Key:33
+key_Open Backpack:46
+key_Equip/Unequip Backpack:47
 key_Mount Ability:45
 key_Mount Inventory:0
 key_Lycanites Mobs Main Menu:34
@@ -169,6 +182,11 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
+key_keybind.railcraft.loco.reverse:53:ALT
+key_keybind.railcraft.loco.faster:52:ALT
+key_keybind.railcraft.loco.slower:51:ALT
+key_keybind.railcraft.loco.mode:50:ALT
+key_keybind.railcraft.loco.whistle:49:ALT
 key_BetterFps:88
 key_nei.options.keys.gui.enchant:45
 key_nei.options.keys.gui.potion:25
