@@ -1,5 +1,5 @@
-#Fri Mar 24 18:53:05 CDT 2017
-shaderPack=
+#Fri Mar 24 19:09:59 CDT 2017
+shaderPack=SEUS-v11.0.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
