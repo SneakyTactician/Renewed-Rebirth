@@ -115,6 +115,11 @@ key_Familiar Manager:0
 key_Minion Manager:0
 key_Minion Selection:19
 key_keybind.baublesinventory:48
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
 key_key.cofh.multimode:47
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -122,11 +127,35 @@ key_key.jei.showRecipe:19
 key_key.jei.showUses:22
 key_key.jei.recipeBack:14
 key_key.jei.toggleCheatMode:0
-key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
+key_mod.chiselsandbits.chiselmode.single:0
+key_mod.chiselsandbits.chiselmode.snap2:0
+key_mod.chiselsandbits.chiselmode.snap4:0
+key_mod.chiselsandbits.chiselmode.snap8:0
+key_mod.chiselsandbits.chiselmode.line:0
+key_mod.chiselsandbits.chiselmode.plane:0
+key_mod.chiselsandbits.chiselmode.connected_plane:0
+key_mod.chiselsandbits.chiselmode.cube_small:0
+key_mod.chiselsandbits.chiselmode.cube_medium:0
+key_mod.chiselsandbits.chiselmode.cube_large:0
+key_mod.chiselsandbits.chiselmode.same_material:0
+key_mod.chiselsandbits.chiselmode.drawn_region:0
+key_mod.chiselsandbits.chiselmode.connected_material:0
+key_mod.chiselsandbits.positivepatternmode.replace:0
+key_mod.chiselsandbits.positivepatternmode.additive:0
+key_mod.chiselsandbits.positivepatternmode.placement:0
+key_mod.chiselsandbits.positivepatternmode.impose:0
+key_mod.chiselsandbits.tapemeasure.bit:0
+key_mod.chiselsandbits.tapemeasure.block:0
+key_mod.chiselsandbits.tapemeasure.distance:0
+key_mod.chiselsandbits.other.mode:56
+key_mod.chiselsandbits.other.rotate.ccw:0
+key_mod.chiselsandbits.other.rotate.cw:0
+key_mod.chiselsandbits.other.pickbit:0
+key_mod.chiselsandbits.other.undo:0
+key_mod.chiselsandbits.other.redo:0
+key_mod.chiselsandbits.other.add_to_clipboard:0
+key_key.clienttweaks.disable_step_assist:0
+key_key.clienttweaks.hide_offhand_item:0
 key_invtweaks.key.sort:19
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
@@ -154,7 +183,7 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
