@@ -1,0 +1,147 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  AppEngCore (appliedenergistics2-rv4-alpha-11 - Copy.jar)
+  CCLCorePlugin (CodeChickenLib-1.10.2-2.5.1.185-universal.jar)
+  FMLPlugin (InventoryTweaks-1.62-dev-66.jar)
+  NEICorePlugin (NotEnoughItems-1.10.2-2.1.3.190-universal.jar)
+  Do not report to Forge! Remove FoamFixAPI (or replace with FoamFixAPI-Lawful) and try again. (foamfix-0.5.0-BETA2-anarchy.jar)
+Contact their authors BEFORE contacting forge
+
+// Oh - I know what I did wrong!
+
+Time: 3/24/17 7:47 PM
+Description: Initializing game
+
+java.lang.ClassCastException: java.util.HashSet cannot be cast to java.util.Map
+	at forestry.arboriculture.proxy.ProxyArboricultureClient.onModelBake(ProxyArboricultureClient.java:104)
+	at forestry.arboriculture.PluginArboriculture.onModelBake(PluginArboriculture.java:597)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_76_PluginArboriculture_onModelBake_ModelBakeEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:185)
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:400)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:122)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:499)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:351)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at forestry.arboriculture.proxy.ProxyArboricultureClient.onModelBake(ProxyArboricultureClient.java:104)
+	at forestry.arboriculture.PluginArboriculture.onModelBake(PluginArboriculture.java:597)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_76_PluginArboriculture_onModelBake_ModelBakeEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:185)
+	at net.minecraftforge.client.ForgeHooksClient.onModelBake(ForgeHooksClient.java:400)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:30)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:122)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:499)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:351)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.10.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_121, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 233488272 bytes (222 MB) / 518979584 bytes (494 MB) up to 8520204288 bytes (8125 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:-OmitStackTraceInFastThrow -Xms512M -Xmx8192M -XX:MetaspaceSize=256M -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.32 Powered by Forge 12.18.3.2254 Optifine OptiFine_1.10.2_HD_U_D7 29 mods loaded, 28 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCH	mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+	UCH	FML{8.0.99.99} [Forge Mod Loader] (forge-1.10.2-12.18.3.2254-universal.jar) 
+	UCH	Forge{12.18.3.2254} [Minecraft Forge] (forge-1.10.2-12.18.3.2254-universal.jar) 
+	UCH	appliedenergistics2-core{rv4-alpha-11} [Applied Energistics 2 Core] (minecraft.jar) 
+	UCH	NotEnoughItems{2.1.3.190} [Not Enough Items] (NotEnoughItems-1.10.2-2.1.3.190-universal.jar) 
+	UCH	ccl-entityhook{1.0} [ccl-entityhook] (CodeChickenLib-1.10.2-2.5.1.185-universal.jar) 
+	UCH	appliedenergistics2{rv4-alpha-11} [Applied Energistics 2] (appliedenergistics2-rv4-alpha-11 - Copy.jar) 
+	UCH	BiomesOPlenty{5.0.0.2142} [Biomes O' Plenty] (BiomesOPlenty-1.10.2-5.0.0.2142-universal - Copy.jar) 
+	UCH	CodeChickenLib{2.5.1.185} [CodeChicken Lib] (CodeChickenLib-1.10.2-2.5.1.185-universal.jar) 
+	UCH	CodeChickenCore{2.4.0.101} [CodeChicken Core] (CodeChickenCore-1.10.2-2.4.0.101-universal.jar) 
+	UCH	dldungeonsjdg{1.9.0} [Doomlike Dungeons] (DoomlikeDungeons-1.9.0-MC1.10 - Copy.jar) 
+	UCH	foamfix{@VERSION@} [FoamFix] (foamfix-0.5.0-BETA2-anarchy.jar) 
+	UCH	JEI{3.14.2.401} [Just Enough Items] (jei_1.10.2-3.14.2.401.jar) 
+	UCH	forestry{5.2.16.348} [Forestry] (forestry_1.10.2-5.2.16.348 - Copy.jar) 
+	UCH	Waila{1.7.0} [Waila] (Waila-1.7.0-B3_1.9.4.jar) 
+	UCH	ftbl{0.0.0} [FTBLib] (FTBLib-1.10.2-3.4.4 - Copy.jar) 
+	UCH	ftbu{0.0.0} [FTBUtilities] (FTBUtilities-1.10.2-3.4.3 - Copy.jar) 
+	UCH	gravestone{1.5.10} [Gravestone] (GraveStone Mod 1.5.10 - Copy.jar) 
+	UCH	helpfixer{1.0} [HelpFixer] (HelpFixer-1.10.2-1.4.15.jar) 
+	UCH	inventorysorter{0.10.2+43} [Simple Inventory sorting] (inventorysorter-1.10.2-0.10.2+43.jar) 
+	UCH	inventorytweaks{1.62-dev-66-c082db3} [Inventory Tweaks] (InventoryTweaks-1.62-dev-66.jar) 
+	UCH	levels{r4.1.3} [Levels] (Levels-1.10.2-r4.1.3.jar) 
+	UCH	Roguelike{1.5.6} [Roguelike Dungeons] (RoguelikeDungeons-1.10.2-1.5.6.jar) 
+	UCH	special_ai{1.1.3} [Special AI] (special_ai-1.10.2-1.1.3.jar) 
+	UCH	wanionlib{1.10.2-1.3} [WanionLib] (WanionLib-1.10.2-1.3.jar) 
+	UCH	icse{1.1.0.0} [I Can See Everything] (Wawla-1.10.2-2.3.1.214.jar) 
+	UCH	wawla{2.3.1.214} [What Are We Looking At] (Wawla-1.10.2-2.3.1.214.jar) 
+	UCH	unidict{1.10.2-2.5b} [UniDict] (UniDict-1.10.2-2.5b.jar) 
+	UD	foamfixcore{0.0.0} [FoamFixCore] (minecraft.jar) 
+	Loaded coremods (and transformers): 
+AppEngCore (appliedenergistics2-rv4-alpha-11 - Copy.jar)
+  appeng.coremod.transformer.ASMIntegration
+CCLCorePlugin (CodeChickenLib-1.10.2-2.5.1.185-universal.jar)
+  codechicken.lib.asm.ClassHeirachyManager
+  codechicken.lib.asm.BlockStateLoaderTransformer
+FMLPlugin (InventoryTweaks-1.62-dev-66.jar)
+  invtweaks.forge.asm.ContainerTransformer
+NEICorePlugin (NotEnoughItems-1.10.2-2.1.3.190-universal.jar)
+  codechicken.nei.asm.NEITransformer
+Do not report to Forge! Remove FoamFixAPI (or replace with FoamFixAPI-Lawful) and try again. (foamfix-0.5.0-BETA2-anarchy.jar)
+  pl.asie.foamfix.coremod.FoamFixTransformer
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13469 Compatibility Profile Context 21.19.519.2' Renderer: 'AMD Radeon (TM) R9 390 Series'
+	AE2 Version: alpha rv4-alpha-11 for Forge 12.18.3.2185
+	NotEnoughItems Invalid Fingerprint Reports: 
+	CodeChickenLib Invalid Fingerprint Reports: 
+	CodeChickenCore Invalid Fingerprint Reports: 
+	Launched Version: 1.10.2
+	LWJGL: 2.9.4
+	OpenGL: AMD Radeon (TM) R9 390 Series GL version 4.5.13469 Compatibility Profile Context 21.19.519.2, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: The End Resource Pack (incompatible), Modern HD, Faithful Mods 1.11.2-rv3 (incompatible), [1.10] R3D CRAFT 512x (v0.3.0), Soartex_Fanver
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 8x Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz
+	OptiFine Version: OptiFine_1.10.2_HD_U_D7
+	Render Distance Chunks: 8
+	Mipmaps: 0
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: SEUS-v11.0.zip
+	OpenGlVersion: 4.5.13469 Compatibility Profile Context 21.19.519.2
+	OpenGlRenderer: AMD Radeon (TM) R9 390 Series
+	OpenGlVendor: ATI Technologies Inc.
+	CpuCount: 8
