@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:16
 guiScale:3
 particles:0
 bobView:true
@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:fast
-resourcePacks:["The End Resource Pack","Modern HD","Faithful Mods 1.11.2-rv3","[1.10] R3D CRAFT 512x (v0.3.0)","Soartex_Fanver"]
+resourcePacks:["The End Resource Pack","Modern HD","Faithful Mods 1.11.2-rv3","[1.10] R3D CRAFT 512x (v0.3.0)","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
 incompatibleResourcePacks:["The End Resource Pack","Faithful Mods 1.11.2-rv3"]
 lastServer:
 lang:en_US
@@ -87,9 +87,34 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
+key_enderio.keybind.glidertoggle:34
+key_enderio.keybind.soundlocator:38
+key_enderio.keybind.nightvision:25
+key_enderio.keybind.gogglesofrevealing:0
+key_enderio.keybind.stepassist:0
+key_enderio.keybind.speed:0
+key_enderio.keybind.jump:0
+key_enderio.keybind.top:0
+key_enderio.keybind.yetawrenchmode:21
+key_enderio.keybind.magnet:0
+key_enderio.keybind.fovreset:0
+key_enderio.keybind.fovplus:0
+key_enderio.keybind.fovminus:0
+key_enderio.keybind.fovplusfast:0
+key_enderio.keybind.fovminusfast:0
 key_key.ftbu.guide:0
 key_key.ftbu.warp:0
 key_Gravi Fly Key:33
+key_Mount Ability:45
+key_Mount Inventory:0
+key_Lycanites Mobs Main Menu:34
+key_Beastiary:0
+key_Pet Manager:0
+key_Mount Manager:0
+key_Familiar Manager:0
+key_Minion Manager:0
+key_Minion Selection:19
+key_keybind.baublesinventory:48
 key_key.cofh.multimode:47
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -103,6 +128,11 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_invtweaks.key.sort:19
+key_Mekanism Item Mode Switch:50
+key_Mekanism Armor Mode Switch:33
+key_Mekanism Voice:22
+key_key.materialCosts:56
+key_key.clipboardPaste:210
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
@@ -125,7 +155,7 @@ key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
