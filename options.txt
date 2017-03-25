@@ -90,6 +90,7 @@ key_Hub Expand Key:45
 key_key.ftbu.guide:0
 key_key.ftbu.warp:0
 key_Gravi Fly Key:33
+key_key.cofh.multimode:47
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.showRecipe:19
@@ -105,7 +106,7 @@ key_invtweaks.key.sort:19
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:26
+key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
@@ -123,7 +124,7 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
