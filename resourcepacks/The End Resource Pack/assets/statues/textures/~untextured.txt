@@ -1,5 +1,0 @@
-cape.png
-gui-sculpt-old.png
-gui-showcase.png
-showcase.png
-steve.png

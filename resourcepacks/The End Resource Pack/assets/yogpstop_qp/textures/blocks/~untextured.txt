@@ -1,2 +1,0 @@
-refineryDummy.png
-workbench.png

@@ -13,7 +13,7 @@ maxFps:260
 fboEnable:true
 difficulty:2
 fancyGraphics:false
-ao:2
+ao:0
 renderClouds:fast
 resourcePacks:["The End Resource Pack","Modern HD","Faithful Mods 1.11.2-rv3","[1.10] R3D CRAFT 512x (v0.3.0)","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
 incompatibleResourcePacks:["The End Resource Pack","Faithful Mods 1.11.2-rv3"]
@@ -87,6 +87,7 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
+key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
 key_quark.emote.yes:0
@@ -97,7 +98,6 @@ key_quark.emote.point:0
 key_quark.emote.shrug:0
 key_quark.emote.facepalm:0
 key_quark.emote.headbang:0
-key_quark.keybind.toggleAutojump:48
 key_key.davincis.up:45
 key_key.davincis.down:44
 key_key.davincis.brake:46
