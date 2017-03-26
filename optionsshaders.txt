@@ -1,5 +1,5 @@
-#Sun Mar 26 13:57:26 CDT 2017
-shaderPack=Lagless-Shaders-Lite-1.10.2.zip
+#Sun Mar 26 15:58:46 CDT 2017
+shaderPack=SEUS-v11.0.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
