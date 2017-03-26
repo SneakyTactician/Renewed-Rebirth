@@ -229,7 +229,7 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
