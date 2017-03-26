@@ -1,5 +1,5 @@
-#Sun Mar 26 12:13:04 CDT 2017
-shaderPack=DocteurDreads-Shaders-Lite.zip
+#Sun Mar 26 12:36:19 CDT 2017
+shaderPack=Lagless-Shaders-Lite-1.10.2.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
