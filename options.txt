@@ -6,7 +6,7 @@ gamma:1.0
 saturation:0.0
 renderDistance:8
 guiScale:3
-particles:0
+particles:2
 bobView:true
 anaglyph3d:false
 maxFps:260
@@ -134,6 +134,7 @@ key_Mount Manager:0
 key_Familiar Manager:0
 key_Minion Manager:0
 key_Minion Selection:19
+key_key.rscircuits:monocle:44
 key_key.cofh.multimode:47
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -201,6 +202,7 @@ key_invtweaks.key.sort:19
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
+key_key.craftingGrid:46
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
