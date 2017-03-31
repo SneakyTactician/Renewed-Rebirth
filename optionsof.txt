@@ -5,7 +5,7 @@ ofMipmapType:0
 ofOcclusionFancy:false
 ofSmoothFps:true
 ofSmoothWorld:true
-ofAoLevel:0.0
+ofAoLevel:0.4225352
 ofClouds:1
 ofCloudsHeight:0.0
 ofTrees:1
@@ -52,7 +52,7 @@ ofSmoothBiomes:false
 ofCustomFonts:false
 ofCustomColors:true
 ofCustomItems:false
-ofCustomSky:true
+ofCustomSky:false
 ofShowCapes:true
 ofNaturalTextures:false
 ofLazyChunkLoading:true
