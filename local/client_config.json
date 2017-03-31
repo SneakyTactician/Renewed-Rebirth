@@ -1,7 +1,7 @@
 {
   "ftbu": {
     "render_badges": true,
-    "journeymap_overlay": true
+    "journeymap_overlay": false
   },
   "sidebar_button": {
     "ftbu": {
