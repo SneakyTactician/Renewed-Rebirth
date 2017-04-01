@@ -2,7 +2,7 @@ version:512
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:1.0
+gamma:0.59859157
 saturation:0.0
 renderDistance:8
 guiScale:3
@@ -195,6 +195,7 @@ key_keybind.railcraft.loco.faster:52:ALT
 key_keybind.railcraft.loco.slower:51:ALT
 key_keybind.railcraft.loco.mode:50:ALT
 key_keybind.railcraft.loco.whistle:49:ALT
+<<<<<<< HEAD
 soundCategory_master:0.5066225
 soundCategory_music:0.2535211
 soundCategory_record:0.4084507
@@ -205,6 +206,32 @@ soundCategory_neutral:0.5070422
 soundCategory_player:0.5070422
 soundCategory_ambient:0.5070422
 soundCategory_voice:0.5
+=======
+key_BetterFps:88
+key_nei.options.keys.gui.enchant:45
+key_nei.options.keys.gui.potion:25
+key_nei.options.keys.gui.prev:201
+key_nei.options.keys.gui.next:209
+key_nei.options.keys.world.chunkoverlay:67
+key_nei.options.keys.world.moboverlay:65
+key_nei.options.keys.world.dawn:0
+key_nei.options.keys.world.noon:0
+key_nei.options.keys.world.dusk:0
+key_nei.options.keys.world.midnight:0
+key_nei.options.keys.world.rain:0
+key_nei.options.keys.world.heal:0
+key_nei.options.keys.world.creative:0
+soundCategory_master:0.7605634
+soundCategory_music:1.0
+soundCategory_record:1.0
+soundCategory_weather:1.0
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_ambient:1.0
+soundCategory_voice:1.0
+>>>>>>> b315024a27ca4013665d0412f6c3764bbc8d377e
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
