@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures":
-  {
-    "bottom": "lithos_mod:blocks/block_brass",
-    "top": "lithos_mod:blocks/block_brass",
-    "side": "lithos_mod:blocks/block_brass"
-  }
-}

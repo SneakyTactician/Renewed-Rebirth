@@ -97,5 +97,22 @@
 -->
 
 <SAGMillRecipes>
-
+  <recipeGroup name="Oregen" >
+    <recipe name="UraniumOreToDust" energyCost="2400" >
+        <input>
+          <itemStack oreDictionary="oreUranium" />
+        </input>
+        <output>
+          <itemStack oreDictionary="dustUranium" number="2"/>
+        </output>
+      </recipe>
+      <recipe name="UraniumIngotToDust" energyCost="2400" >
+        <input>
+          <itemStack oreDictionary="ingotUranium" />
+        </input>
+        <output>
+          <itemStack oreDictionary="dustUranium" number="1"/>
+        </output>
+      </recipe>
+  </recipeGroup>
 </SAGMillRecipes>

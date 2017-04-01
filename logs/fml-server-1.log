@@ -1,0 +1,496 @@
+[20:55:28] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[20:55:29] [main/INFO] [FML/]: Forge Mod Loader version 12.18.3.2254 for Minecraft 1.10.2 loading
+[20:55:29] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_121
+[20:55:29] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.10.2-12.18.3.2254-universal.jar
+[20:55:29] [main/DEBUG] [FML/]: Java library path at launch is C:\ProgramData\Oracle\Java\javapath;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Users\JBYE\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\nodejs\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\JBYE\AppData\Local\Microsoft\WindowsApps;C:\Users\JBYE\AppData\Roaming\npm;.
+[20:55:29] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[20:55:29] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[20:55:29] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[20:55:29] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[20:55:29] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[20:55:29] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[20:55:29] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[20:55:29] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to D:\Minecraft\Instances\RenewedRebirthServer\.
+[20:55:29] [main/DEBUG] [FML/]: Discovering coremods
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy ActuallyAdditions-1.10.2-r105.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in ActuallyAdditions-1.10.2-r105.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy AkashicTome-1.0-5.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in AkashicTome-1.0-5.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy appliedenergistics2-rv4-alpha-11.jar
+[20:55:29] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in appliedenergistics2-rv4-alpha-11.jar, it will be examined later for regular @Mod instances
+[20:55:29] [main/DEBUG] [FML/]: Instantiating coremod class AppEngCore
+[20:55:29] [main/DEBUG] [FML/]: The coremod appeng.coremod.AppEngCore requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[20:55:29] [main/INFO] [FML/]: [AppEng] Core Init
+[20:55:29] [main/DEBUG] [FML/]: Enqueued coremod AppEngCore
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy Aquaculture-1.10.2-1.4.0.28.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in Aquaculture-1.10.2-1.4.0.28.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy AutoRegLib-1.0-2.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in AutoRegLib-1.0-2.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy Baubles-1.10.2-1.3.9.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in Baubles-1.10.2-1.3.9.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy BiblioCraft[v2.2.1][MC1.10.2].jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in BiblioCraft[v2.2.1][MC1.10.2].jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy BlockDrops-1.10.2-1.1.1.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in BlockDrops-1.10.2-1.1.1.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy BloodMagic-1.10.2-2.1.7-76.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in BloodMagic-1.10.2-2.1.7-76.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy Bookshelf-1.10.2-1.4.3.338.jar
+[20:55:29] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Bookshelf-1.10.2-1.4.3.338.jar, it will be examined later for regular @Mod instances
+[20:55:29] [main/DEBUG] [FML/]: Instantiating coremod class BookshelfLoadingPlugin
+[20:55:29] [main/DEBUG] [FML/]: The coremod net.darkhax.bookshelf.asm.BookshelfLoadingPlugin requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[20:55:29] [main/DEBUG] [FML/]: Enqueued coremod BookshelfLoadingPlugin
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy Botania r1.9-341.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in Botania r1.9-341.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy BrandonsCore-1.10.2-2.1.4.92-universal.jar
+[20:55:29] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in BrandonsCore-1.10.2-2.1.4.92-universal.jar, it will be examined later for regular @Mod instances
+[20:55:29] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[20:55:29] [main/TRACE] [FML/]: coremod named Brandon's Core is loading
+[20:55:29] [main/DEBUG] [FML/]: The coremod com.brandon3055.brandonscore.asm.LoadingPlugin requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[20:55:29] [main/DEBUG] [FML/]: Enqueued coremod Brandon's Core
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy Chameleon-1.10-2.2.2.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in Chameleon-1.10-2.2.2.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy chickens-4.3.2.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in chickens-4.3.2.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy Chisel-MC1.10.2-0.0.9.15.jar
+[20:55:29] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Chisel-MC1.10.2-0.0.9.15.jar, it will be examined later for regular @Mod instances
+[20:55:29] [main/DEBUG] [FML/]: Instantiating coremod class ChiselCorePlugin
+[20:55:29] [main/WARN] [FML/]: The coremod team.chisel.common.asm.ChiselCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:29] [main/DEBUG] [FML/]: Enqueued coremod ChiselCorePlugin
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy chiselsandbits-12.12.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in chiselsandbits-12.12.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenCore-1.10.2-2.4.0.101-universal.jar
+[20:55:29] [main/DEBUG] [FML/]: Not found coremod data in CodeChickenCore-1.10.2-2.4.0.101-universal.jar
+[20:55:29] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenLib-1.10.2-2.5.7.241-universal.jar
+[20:55:29] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in CodeChickenLib-1.10.2-2.5.7.241-universal.jar, it will be examined later for regular @Mod instances
+[20:55:29] [main/DEBUG] [FML/]: Instantiating coremod class CCLCorePlugin
+[20:55:31] [main/WARN] [FML/]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:31] [main/DEBUG] [FML/]: Enqueued coremod CCLCorePlugin
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy CoFHCore-1.10.2-4.1.1.156-universal.jar
+[20:55:31] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in CoFHCore-1.10.2-4.1.1.156-universal.jar, it will be examined later for regular @Mod instances
+[20:55:31] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[20:55:31] [main/TRACE] [FML/]: coremod named CoFH Loading Plugin is loading
+[20:55:31] [main/WARN] [FML/]: The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:31] [main/DEBUG] [FML/]: Enqueued coremod CoFH Loading Plugin
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy CommonCapabilities-1.9.4-1.3.1.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in CommonCapabilities-1.9.4-1.3.1.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy compatlayer-1.10-0.2.5.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in compatlayer-1.10-0.2.5.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy CookingForBlockheads_1.10.2-4.2.39.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in CookingForBlockheads_1.10.2-4.2.39.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy CraftTweaker-1.10.2-3.0.24.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in CraftTweaker-1.10.2-3.0.24.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy cxlibrary-1.10.2-1.2.3.jar
+[20:55:31] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in cxlibrary-1.10.2-1.2.3.jar, it will be examined later for regular @Mod instances
+[20:55:31] [main/DEBUG] [FML/]: Instantiating coremod class CoreModLoader
+[20:55:31] [main/TRACE] [FML/]: coremod named CXLibraryCore is loading
+[20:55:31] [main/DEBUG] [FML/]: The coremod cubex2.cxlibrary.CoreModLoader requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[20:55:31] [main/DEBUG] [FML/]: Enqueued coremod CXLibraryCore
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy cyberware-1.9.4-1.10.2-beta-0.2.6.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in cyberware-1.9.4-1.10.2-beta-0.2.6.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy Cyclic-1.10.2-1.10.16.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in Cyclic-1.10.2-1.10.16.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy CyclopsCore-1.9.4-0.10.0.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in CyclopsCore-1.9.4-0.10.0.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy dailies-1.10.2-6.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in dailies-1.10.2-6.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy DarkUtilities-1.10.2-1.1.6.105.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in DarkUtilities-1.10.2-1.1.6.105.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy deepresonance-1.10-1.3.1.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in deepresonance-1.10-1.3.1.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy Draconic-Evolution-1.10.2-2.0.8.177-universal.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in Draconic-Evolution-1.10.2-2.0.8.177-universal.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy DrawersBits-1.10.2-0.36.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in DrawersBits-1.10.2-0.36.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy ElecCore-1.10.2-1.7.409.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in ElecCore-1.10.2-1.7.409.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy embers-0.104.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in embers-0.104.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderCore-1.10.2-0.4.1.65-beta.jar
+[20:55:31] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in EnderCore-1.10.2-0.4.1.65-beta.jar, it will be examined later for regular @Mod instances
+[20:55:31] [main/DEBUG] [FML/]: Instantiating coremod class EnderCorePlugin
+[20:55:31] [main/DEBUG] [FML/]: The coremod com.enderio.core.common.transform.EnderCorePlugin requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[20:55:31] [main/DEBUG] [FML/]: Enqueued coremod EnderCorePlugin
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderIO-1.10.2-3.1.179.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in EnderIO-1.10.2-3.1.179.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderRift-1.10.2-1.5.0.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in EnderRift-1.10.2-1.5.0.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderStorage-1.10.2-2.2.1.103-universal.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in EnderStorage-1.10.2-2.2.1.103-universal.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy endertanks-1.10.0-1.4.11.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in endertanks-1.10.0-1.4.11.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy environmentaltech-1.10.2-0.10.6b.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in environmentaltech-1.10.2-0.10.6b.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy EvilCraft-1.10.2-0.10.21.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in EvilCraft-1.10.2-0.10.21.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy extraalchemy-0.3.0.4-hotfix-release.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in extraalchemy-0.3.0.4-hotfix-release.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy extrautils2-1.10.2-1.3.3.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in extrautils2-1.10.2-1.3.3.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy ExtremeReactors-1.10.2-0.4.5.27.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in ExtremeReactors-1.10.2-0.4.5.27.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy FarmingForBlockheads_1.10.2-1.1.11.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in FarmingForBlockheads_1.10.2-1.1.11.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy FastLeaveDecay-MC1.10.2-1.2.3.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in FastLeaveDecay-MC1.10.2-1.2.3.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy flatcoloredblocks-mc1.10-v4.4.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in flatcoloredblocks-mc1.10-v4.4.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy FluxNetworks-1.10.2-1.2.0.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in FluxNetworks-1.10.2-1.2.0.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy forestry_1.10.2-5.2.17.368.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in forestry_1.10.2-5.2.17.368.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy Forgelin-1.3.1.jar
+[20:55:31] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.3.1.jar, it will be examined later for regular @Mod instances
+[20:55:31] [main/DEBUG] [FML/]: Instantiating coremod class ForgelinPlugin
+[20:55:31] [main/WARN] [FML/]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:31] [main/DEBUG] [FML/]: Enqueued coremod ForgelinPlugin
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeMultipart-1.10.2-2.0.0.29-universal.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in ForgeMultipart-1.10.2-2.0.0.29-universal.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy FTBLib-1.10.2-3.3.0.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in FTBLib-1.10.2-3.3.0.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy Guide-API-1.10.2-2.0.2-45.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in Guide-API-1.10.2-2.0.2-45.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy hatchery-1.10.2-0.2.10.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in hatchery-1.10.2-0.2.10.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy ImmersiveEngineering-0.10-57.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in ImmersiveEngineering-0.10-57.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy IntegratedDynamics-1.10.2-0.6.11.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in IntegratedDynamics-1.10.2-0.6.11.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy IntegratedTunnels-1.10.2-1.1.1.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in IntegratedTunnels-1.10.2-1.1.1.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy IronBackpacks-1.10.2-2.2.23.jar
+[20:55:31] [main/DEBUG] [FML/]: Not found coremod data in IronBackpacks-1.10.2-2.2.23.jar
+[20:55:31] [main/DEBUG] [FML/]: Examining for coremod candidacy ironchest-1.10.2-7.0.11.797.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in ironchest-1.10.2-7.0.11.797.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy jei_1.10.2-3.14.7.416.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in jei_1.10.2-3.14.7.416.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy jeibees-0.9.0.4-mc1.10.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in jeibees-0.9.0.4-mc1.10.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy JustEnoughResources-1.10.2-0.5.7.96.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in JustEnoughResources-1.10.2-0.5.7.96.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy lightningcraft-2.7.3-[1.10.2].jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in lightningcraft-2.7.3-[1.10.2].jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy literalascension-1.10.2-1.0.1.1.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in literalascension-1.10.2-1.0.1.1.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class LiteralAscensionPlugin
+[20:55:32] [main/TRACE] [FML/]: coremod named literalascension is loading
+[20:55:32] [main/DEBUG] [FML/]: The coremod com.jamieswhiteshirt.literalascension.core.plugin.LiteralAscensionPlugin requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod literalascension
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy llibrary-1.7.4-1.10.2.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in llibrary-1.7.4-1.10.2.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class LLibraryPlugin
+[20:55:32] [main/TRACE] [FML/]: coremod named llibrary is loading
+[20:55:32] [main/DEBUG] [FML/]: The coremod net.ilexiconn.llibrary.server.core.plugin.LLibraryPlugin requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod llibrary
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy malisiscore-1.10.2-4.3.0.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in malisiscore-1.10.2-4.3.0.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class MalisisCorePlugin
+[20:55:32] [main/WARN] [FML/]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod MalisisCorePlugin
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy malisisdoors-1.10.2-5.2.0.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in malisisdoors-1.10.2-5.2.0.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Mantle-1.10.2-1.1.5.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in Mantle-1.10.2-1.1.5.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy mcjtylib-1.10-2.2.0.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in mcjtylib-1.10-2.2.0.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy MCMultiPart-experimental-2.0.0_88-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in MCMultiPart-experimental-2.0.0_88-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy moartinkers-0.3.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in moartinkers-0.3.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy ModTweaker2-2.0.11.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in ModTweaker2-2.0.11.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy morebees-1.10.2-1.3.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in morebees-1.10.2-1.3.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy MoreChickens-1.10.2-1.0.11.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in MoreChickens-1.10.2-1.0.11.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy MoreFurnaces-1.10.2-1.8.6.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in MoreFurnaces-1.10.2-1.8.6.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Morph-o-Tool-1.0-12.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in Morph-o-Tool-1.0-12.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy MTLib-1.0.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in MTLib-1.0.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy mysticalagriculture[1.10.2]-1.4.5.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in mysticalagriculture[1.10.2]-1.4.5.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy natura-1.10.2-4.1.0.24.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in natura-1.10.2-4.1.0.24.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy NomadicTents[1.10.2]-7.01.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in NomadicTents[1.10.2]-7.01.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy OpenComputers-MC1.10.2-1.6.2.7.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in OpenComputers-MC1.10.2-1.6.2.7.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class TransformerLoader
+[20:55:32] [main/DEBUG] [FML/]: The coremod li.cil.oc.common.launch.TransformerLoader requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod TransformerLoader
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy OreGen-1.10.2-0.62Beta.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in OreGen-1.10.2-0.62Beta.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy p455w0rdslib-1.10.2-1.0.13.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in p455w0rdslib-1.10.2-1.0.13.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Pam's HarvestCraft 1.9.4-1.10.2h.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in Pam's HarvestCraft 1.9.4-1.10.2h.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy platforms-1.10.0-1.2.9.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in platforms-1.10.0-1.2.9.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy ProgressiveAutomation-1.10.2-1.6.53.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in ProgressiveAutomation-1.10.2-1.6.53.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Psi-r1.0-42.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in Psi-r1.0-42.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Quark-r1.1-70.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.1-70.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[20:55:32] [main/WARN] [FML/]: The coremod vazkii.quark.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod LoadingPlugin
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Railcraft_1.10.2-10.0.1.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in Railcraft_1.10.2-10.0.1.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy RandomThings-MC1.10.2-3.7.7.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in RandomThings-MC1.10.2-3.7.7.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[20:55:32] [main/WARN] [FML/]: The coremod lumien.randomthings.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod LoadingPlugin
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy RebornCore-1.10.2-2.13.5.136-universal.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in RebornCore-1.10.2-2.13.5.136-universal.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class MixinForgeLoadingCore
+[20:55:32] [main/TRACE] [FML/]: coremod named RebornCoreASM is loading
+[20:55:32] [main/DEBUG] [FML/]: The coremod reborncore.mixin.implementations.forge.MixinForgeLoadingCore requested minecraft version 1.10.2 and minecraft is 1.10.2. It will be loaded.
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod RebornCoreASM
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy RecallStones-1.10.2-0.6.3.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in RecallStones-1.10.2-0.6.3.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy RedstoneArsenal-1.10.2-2.0.3.29-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in RedstoneArsenal-1.10.2-2.0.3.29-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy redstonepaste-mc1.9.4-1.7.4.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in redstonepaste-mc1.9.4-1.7.4.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class NWRTweak
+[20:55:32] [main/WARN] [FML/]: The coremod net.fybertech.nwr.NWRTweak does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod NWRTweak
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy refinedstorage-1.2.25.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in refinedstorage-1.2.25.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Reliquary-1.10.2-1.3.3.585.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in Reliquary-1.10.2-1.3.3.585.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy ResourceLoader-MC1.9.4-1.5.1.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.9.4-1.5.1.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[20:55:32] [main/WARN] [FML/]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod LoadingPlugin
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy rftools-1.10-5.62.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in rftools-1.10-5.62.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy roots-0.208.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in roots-0.208.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy RTG-1.10.2-4.1.2.4.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in RTG-1.10.2-4.1.2.4.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Runes-of-Wizardry-1.10.2-0.7.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in Runes-of-Wizardry-1.10.2-0.7.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy shetiphiancore-1.10.0-3.3.8.jar
+[20:55:32] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in shetiphiancore-1.10.0-3.3.8.jar, it will be examined later for regular @Mod instances
+[20:55:32] [main/DEBUG] [FML/]: Instantiating coremod class TweakPlugin
+[20:55:32] [main/TRACE] [FML/]: coremod named ShetiPhian-ASM is loading
+[20:55:32] [main/WARN] [FML/]: The coremod shetiphian.core.asm.TweakPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:55:32] [main/DEBUG] [FML/]: Enqueued coremod ShetiPhian-ASM
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Signals-1.10.2-0.5.1-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in Signals-1.10.2-0.5.1-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy SimplyJetpacks2-1.10.2-2.0.3.26.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in SimplyJetpacks2-1.10.2-2.0.3.26.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy SonarCore-1.10.2-3.2.6.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in SonarCore-1.10.2-3.2.6.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy SoulShards-TOW-1.10.2-2.6.7-48.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in SoulShards-TOW-1.10.2-2.6.7-48.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy SpartanShields-1.10.2-1.2a.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in SpartanShields-1.10.2-1.2a.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy StevesCarts-1.10.2-2.1.4.83.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in StevesCarts-1.10.2-2.1.4.83.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy StorageDrawers-1.10.2-3.6.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in StorageDrawers-1.10.2-3.6.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy SuperCircuitMaker-1.0.4.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in SuperCircuitMaker-1.0.4.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy supercraftingframe-1.10.2-1.2.1.88.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in supercraftingframe-1.10.2-1.2.1.88.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy TConstruct-1.10.2-2.6.3.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in TConstruct-1.10.2-2.6.3.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy TechReborn-1.10.2-2.1.10.207-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in TechReborn-1.10.2-2.1.10.207-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy theoneprobe-1.1x-1.4.5.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in theoneprobe-1.1x-1.4.5.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy ThermalExpansion-1.10.2-5.0.4.90-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in ThermalExpansion-1.10.2-5.0.4.90-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy ThermalFoundation-1.10.2-2.0.5.81-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in ThermalFoundation-1.10.2-2.0.5.81-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy tinker_io-1.10.2-pre-release 2.4.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in tinker_io-1.10.2-pre-release 2.4.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy TinkerToolLeveling-1.10.2-1.0.1.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in TinkerToolLeveling-1.10.2-1.0.1.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy TombManyGraves-1.10.2-2.1.16.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in TombManyGraves-1.10.2-2.1.16.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy UniDict-1.10.2-2.8.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in UniDict-1.10.2-2.8.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy valkyrielib-1.10.2-0.10.6.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in valkyrielib-1.10.2-0.10.6.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy Vampirism-1.10.2-1.1.0-beta.1.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in Vampirism-1.10.2-1.1.0-beta.1.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy WanionLib-1.10.2-1.3.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in WanionLib-1.10.2-1.3.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy WaterStrainer-1.9.4-1.3.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in WaterStrainer-1.9.4-1.3.2.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy WirelessCraftingGrid-1.10.2-1.0.0.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in WirelessCraftingGrid-1.10.2-1.0.0.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy woot-1.10.2-1.2.7.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in woot-1.10.2-1.2.7.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy WR-CBE-1.10.2-2.0.0.18-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in WR-CBE-1.10.2-2.0.0.18-universal.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy YABBA-1.10.2-0.3.0.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in YABBA-1.10.2-0.3.0.jar
+[20:55:32] [main/DEBUG] [FML/]: Examining for coremod candidacy zerocore-1.10.2-0.1.0.4.jar
+[20:55:32] [main/DEBUG] [FML/]: Not found coremod data in zerocore-1.10.2-0.1.0.4.jar
+[20:55:32] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:55:32] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:55:32] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:55:32] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:55:32] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:32] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[20:55:32] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[20:55:32] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[20:55:32] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[20:55:32] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[20:55:32] [main/DEBUG] [FML/]: Injection complete
+[20:55:32] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[20:55:32] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[20:55:33] [main/DEBUG] [FML/]: Read 914 binary patches
+[20:55:33] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.10.2.lzma with 32371 records
+[20:55:33] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:55:33] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[20:55:33] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:33] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[20:55:33] [main/DEBUG] [FML/]: Injection complete
+[20:55:33] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[20:55:33] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[20:55:33] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[20:55:33] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:33] [main/DEBUG] [FML/]: Injecting coremod AppEngCore {appeng.coremod.AppEngCore} class transformers
+[20:55:33] [main/TRACE] [FML/]: Registering transformer appeng.coremod.transformer.ASMIntegration
+[20:55:33] [main/DEBUG] [FML/]: Injection complete
+[20:55:33] [main/DEBUG] [FML/]: Running coremod plugin for AppEngCore {appeng.coremod.AppEngCore}
+[20:55:33] [main/DEBUG] [FML/]: Running coremod plugin AppEngCore
+[20:55:33] [main/DEBUG] [FML/]: Coremod plugin class AppEngCore run successfully
+[20:55:33] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:33] [main/DEBUG] [FML/]: Injecting coremod Brandon's Core {com.brandon3055.brandonscore.asm.LoadingPlugin} class transformers
+[20:55:33] [main/TRACE] [FML/]: Registering transformer com.brandon3055.brandonscore.asm.ClassTransformer
+[20:55:34] [main/DEBUG] [FML/]: Injection complete
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin for Brandon's Core {com.brandon3055.brandonscore.asm.LoadingPlugin}
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin Brandon's Core
+[20:55:34] [main/DEBUG] [FML/]: Coremod plugin class LoadingPlugin run successfully
+[20:55:34] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:34] [main/DEBUG] [FML/]: Injecting coremod CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin} class transformers
+[20:55:34] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.ClassHeirachyManager
+[20:55:34] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.CCL_ASMTransformer
+[20:55:34] [main/DEBUG] [FML/]: Injection complete
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin for CCLCorePlugin {codechicken.lib.asm.CCLCorePlugin}
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin CCLCorePlugin
+[20:55:34] [main/DEBUG] [FML/]: Coremod plugin class CCLCorePlugin run successfully
+[20:55:34] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:34] [main/DEBUG] [FML/]: Injecting coremod ForgelinPlugin {net.shadowfacts.forgelin.preloader.ForgelinPlugin} class transformers
+[20:55:34] [main/DEBUG] [FML/]: Injection complete
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin for ForgelinPlugin {net.shadowfacts.forgelin.preloader.ForgelinPlugin}
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin ForgelinPlugin
+[20:55:34] [main/DEBUG] [FML/]: Coremod plugin class ForgelinPlugin run successfully
+[20:55:34] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:34] [main/DEBUG] [FML/]: Injecting coremod TransformerLoader {li.cil.oc.common.launch.TransformerLoader} class transformers
+[20:55:34] [main/TRACE] [FML/]: Registering transformer li.cil.oc.common.asm.ClassTransformer
+[20:55:34] [main/DEBUG] [FML/]: Injection complete
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin for TransformerLoader {li.cil.oc.common.launch.TransformerLoader}
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin TransformerLoader
+[20:55:34] [main/DEBUG] [FML/]: Coremod plugin class TransformerLoader run successfully
+[20:55:34] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:34] [main/DEBUG] [FML/]: Injecting coremod LoadingPlugin {vazkii.quark.base.asm.LoadingPlugin} class transformers
+[20:55:34] [main/TRACE] [FML/]: Registering transformer vazkii.quark.base.asm.ClassTransformer
+[20:55:34] [main/DEBUG] [FML/]: Injection complete
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin for LoadingPlugin {vazkii.quark.base.asm.LoadingPlugin}
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin LoadingPlugin
+[20:55:34] [main/DEBUG] [FML/]: Coremod plugin class LoadingPlugin run successfully
+[20:55:34] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:34] [main/DEBUG] [FML/]: Injecting coremod RebornCoreASM {reborncore.mixin.implementations.forge.MixinForgeLoadingCore} class transformers
+[20:55:34] [main/TRACE] [FML/]: Registering transformer reborncore.mixin.transformer.MixinTransformer
+[20:55:34] [main/DEBUG] [FML/]: Injection complete
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin for RebornCoreASM {reborncore.mixin.implementations.forge.MixinForgeLoadingCore}
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin RebornCoreASM
+[20:55:34] [main/DEBUG] [FML/]: Coremod plugin class MixinForgeLoadingCore run successfully
+[20:55:34] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:34] [main/DEBUG] [FML/]: Injecting coremod CXLibraryCore {cubex2.cxlibrary.CoreModLoader} class transformers
+[20:55:34] [main/TRACE] [FML/]: Registering transformer cubex2.cxlibrary.CoreModTransformer
+[20:55:34] [main/DEBUG] [FML/]: Injection complete
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin for CXLibraryCore {cubex2.cxlibrary.CoreModLoader}
+[20:55:34] [main/DEBUG] [FML/]: Running coremod plugin CXLibraryCore
+[20:55:34] [main/DEBUG] [FML/]: Coremod plugin class CoreModLoader run successfully
+[20:55:34] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:55:34] [main/DEBUG] [FML/]: Loaded 195 rules from AccessTransformer config file forge_at.cfg
+[20:55:34] [main/DEBUG] [FML/]: Loaded 9 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\BrandonsCore-1.10.2-2.1.4.92-universal.jar!META-INF/BrandonsCore_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 37 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\ThermalFoundation-1.10.2-2.0.5.81-universal.jar!META-INF/cofh_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 37 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\CoFHCore-1.10.2-4.1.1.156-universal.jar!META-INF/cofh_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 8 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\Mantle-1.10.2-1.1.5.jar!META-INF/mantle_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 71 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\Bookshelf-1.10.2-1.4.3.338.jar!META-INF/bookshelf_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 37 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\CodeChickenLib-1.10.2-2.5.7.241-universal.jar!META-INF/ccl_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 5 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\Chisel-MC1.10.2-0.0.9.15.jar!META-INF/chisel_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 10 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\OpenComputers-MC1.10.2-1.6.2.7.jar!META-INF/oc_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 9 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\llibrary-1.7.4-1.10.2.jar!META-INF/llibrary_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 37 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\ThermalExpansion-1.10.2-5.0.4.90-universal.jar!META-INF/cofh_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 7 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\forestry_1.10.2-5.2.17.368.jar!META-INF/forestry_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 9 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\JustEnoughResources-1.10.2-0.5.7.96.jar!META-INF/jeresources_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 1 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\deepresonance-1.10-1.3.1.jar!META-INF/deepresonance_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 1 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\appliedenergistics2-rv4-alpha-11.jar!META-INF/appeng_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 8 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\rftools-1.10-5.62.jar!META-INF/rftools_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 6 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\CodeChickenCore-1.10.2-2.4.0.101-universal.jar!META-INF/ccc_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 102 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\extrautils2-1.10.2-1.3.3.jar!META-INF/extrautils2_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 13 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\malisiscore-1.10.2-4.3.0.jar!META-INF/malisiscore_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 33 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\TConstruct-1.10.2-2.6.3.jar!META-INF/tconstruct_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\TechReborn-1.10.2-2.1.10.207-universal.jar!META-INF/techreborn_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 3 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\woot-1.10.2-1.2.7.jar!META-INF/woot_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\CookingForBlockheads_1.10.2-4.2.39.jar!META-INF/cookingforblockheads_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 9 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\FTBLib-1.10.2-3.3.0.jar!META-INF/ftbl_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 3 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\WR-CBE-1.10.2-2.0.0.18-universal.jar!META-INF/wrcbe_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\extraalchemy-0.3.0.4-hotfix-release.jar!META-INF/extraalchemy_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\Baubles-1.10.2-1.3.9.jar!META-INF/baubles_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 32 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\ElecCore-1.10.2-1.7.409.jar!META-INF/eleccore_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 5 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\chiselsandbits-12.12.jar!META-INF/chiselsandbits_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\theoneprobe-1.1x-1.4.5.jar!META-INF/top_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 29 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\ImmersiveEngineering-0.10-57.jar!META-INF/ImmersiveEngineering_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 1 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\ResourceLoader-MC1.9.4-1.5.1.jar!META-INF/ResourceLoader_At.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 7 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\jei_1.10.2-3.14.7.416.jar!META-INF/jei_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Loaded 18 rules from AccessTransformer mod jar file D:\Minecraft\Instances\RenewedRebirthServer\mods\Draconic-Evolution-1.10.2-2.0.8.177-universal.jar!META-INF/DraconicEvolution_at.cfg
+
+[20:55:34] [main/DEBUG] [FML/]: Validating minecraft
+[20:55:35] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[20:55:35] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:35] [main/DEBUG] [FML/]: Injecting coremod BookshelfLoadingPlugin {net.darkhax.bookshelf.asm.BookshelfLoadingPlugin} class transformers
+[20:55:35] [main/TRACE] [FML/]: Registering transformer net.darkhax.bookshelf.asm.BookshelfTransformerManager
+[20:55:35] [main/DEBUG] [FML/]: Injection complete
+[20:55:35] [main/DEBUG] [FML/]: Running coremod plugin for BookshelfLoadingPlugin {net.darkhax.bookshelf.asm.BookshelfLoadingPlugin}
+[20:55:35] [main/DEBUG] [FML/]: Running coremod plugin BookshelfLoadingPlugin
+[20:55:35] [main/DEBUG] [FML/]: Coremod plugin class BookshelfLoadingPlugin run successfully
+[20:55:35] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:55:35] [main/DEBUG] [FML/]: Injecting coremod CoFH Loading Plugin {cofh.asm.LoadingPlugin} class transformers
+[20:55:35] [main/TRACE] [FML/]: Registering transformer cofh.asm.CoFHClassTransformer

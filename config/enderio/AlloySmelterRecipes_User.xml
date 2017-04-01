@@ -27,5 +27,25 @@
 -->
 
 <AlloySmelterRecipes>
-
+  <recipeGroup name="Oregen" >
+    <recipe name="Steel Ingot" energyCost="5000" >
+       <input>
+          <itemStack oreDictionary="ingotIron" number="1" />
+       </input>
+       <input>
+          <itemStack oreDictionary="itemCoal" number="2" />
+       </input>
+       <output>
+         <itemStack oreDictionary="ingotSteel" number="1" exp="0.2" />
+       </output>
+    </recipe>
+    <recipe name="Uranium Ingot" energyCost="5000" >
+       <input>
+          <itemStack oreDictionary="dustUranium" number="1" />
+       </input>
+       <output>
+         <itemStack oreDictionary="ingotUranium" number="1" />
+       </output>
+    </recipe>
+  </recipeGroup>
 </AlloySmelterRecipes>

@@ -1,0 +1,3 @@
+//#TinkerCrusher
+recipes.remove(<tinker_io:Ore_Crusher>);
+recipes.addShaped(<tinker_io:Ore_Crusher>, [[<ore:blockSeared>, <ore:ingotIron>, <ore:blockSeared>], [<minecraft:sea_lantern>, <tconstruct:hammer_head>.withTag({Material: "manyullyn"}), <minecraft:sea_lantern>], [<tconstruct:hammer_head>.withTag({Material: "manyullyn"}), <cyclicmagic:block_miner_tunnel>, <tconstruct:hammer_head>.withTag({Material: "manyullyn"})]]);
