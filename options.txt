@@ -17,7 +17,7 @@ ao:1
 renderClouds:fast
 resourcePacks:["The End Resource Pack","Modern HD","Faithful Mods 1.11.2-rv3","[1.10] R3D CRAFT 512x (v0.3.0)","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
 incompatibleResourcePacks:["The End Resource Pack","Faithful Mods 1.11.2-rv3"]
-lastServer:
+lastServer:192.168.0.11
 lang:en_US
 chatVisibility:0
 chatColors:true
