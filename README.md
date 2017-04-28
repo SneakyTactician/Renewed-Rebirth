@@ -10,7 +10,7 @@ AT launcher compatible.
 -A soundpack
 -An awesome collection of mods
 
-#Disclaimer
+# Disclaimer
 
 This modpack might not run on your computer right out of the box. If it doesn't, I recommend tweaking your settings in the following order:
 
