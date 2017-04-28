@@ -19,3 +19,15 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 3. Resourcepack settings
 4. Remove mods
 5. Get a better computer
+
+# Mods
+
+
+# Shaders
+
+
+# Resourcepacks
+
+
+
+# Soundpack(s)
