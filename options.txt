@@ -11,13 +11,19 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:false
 ao:1
 renderClouds:fast
+<<<<<<< HEAD
 resourcePacks:["Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
 incompatibleResourcePacks:[]
 lastServer:
+=======
+resourcePacks:["The End Resource Pack","Modern HD","Faithful Mods 1.11.2-rv3","[1.10] R3D CRAFT 512x (v0.3.0)","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
+incompatibleResourcePacks:["The End Resource Pack","Faithful Mods 1.11.2-rv3"]
+lastServer:192.168.0.11
+>>>>>>> 3c6b349373b6fb9c8afcbc92bceb3d26024a272d
 lang:en_US
 chatVisibility:0
 chatColors:true
