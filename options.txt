@@ -2,7 +2,7 @@ version:512
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:0.59859157
+gamma:1.0
 saturation:0.0
 renderDistance:8
 guiScale:3
@@ -125,6 +125,10 @@ key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
 key_enderutilities.key.togglemode:34
+key_Open Menu:25
+key_Toggle Freeze Effect:19
+key_Enable/Disable:0
+key_Kill Particles:0
 key_key.ftbu.guide:0
 key_key.ftbu.warp:157
 key_Gravi Fly Key:33

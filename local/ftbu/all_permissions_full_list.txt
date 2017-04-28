@@ -1,5 +1,5 @@
 
-10984 nodes in total
+11031 nodes in total
 block.tap: ALL
 block.wrench: ALL
 enderio.gui.gui_id_alloy_smelter: ALL
@@ -2197,6 +2197,21 @@ ftbu.claims.block.edit.natura.redwood_leaves: OP
 ftbu.claims.block.edit.natura.redwood_logs: OP
 ftbu.claims.block.edit.natura.redwood_sapling: OP
 ftbu.claims.block.edit.natura.respawn_obelisk: OP
+ftbu.claims.block.edit.nethercore.compressed_netherrack: OP
+ftbu.claims.block.edit.nethercore.nether_coal_block: OP
+ftbu.claims.block.edit.nethercore.nether_furnace: OP
+ftbu.claims.block.edit.nethercore.nether_furnace_lit: OP
+ftbu.claims.block.edit.nethercore.nether_grass: OP
+ftbu.claims.block.edit.nethercore.nether_rod: OP
+ftbu.claims.block.edit.nethercore.ore: OP
+ftbu.claims.block.edit.nethercore.slab_double_stone: OP
+ftbu.claims.block.edit.nethercore.slab_half_stone: OP
+ftbu.claims.block.edit.nethercore.soul_glass: OP
+ftbu.claims.block.edit.nethercore.stairs_stone: OP
+ftbu.claims.block.edit.nethercore.stairs_stone_brick: OP
+ftbu.claims.block.edit.nethercore.stairs_stone_cobble: OP
+ftbu.claims.block.edit.nethercore.stone: OP
+ftbu.claims.block.edit.nethercore.wall_stone: OP
 ftbu.claims.block.edit.opencomputers.accesspoint: OP
 ftbu.claims.block.edit.opencomputers.adapter: OP
 ftbu.claims.block.edit.opencomputers.assembler: OP
@@ -4941,6 +4956,21 @@ ftbu.claims.block.interact.natura.redwood_leaves: OP
 ftbu.claims.block.interact.natura.redwood_logs: OP
 ftbu.claims.block.interact.natura.redwood_sapling: OP
 ftbu.claims.block.interact.natura.respawn_obelisk: OP
+ftbu.claims.block.interact.nethercore.compressed_netherrack: OP
+ftbu.claims.block.interact.nethercore.nether_coal_block: OP
+ftbu.claims.block.interact.nethercore.nether_furnace: OP
+ftbu.claims.block.interact.nethercore.nether_furnace_lit: OP
+ftbu.claims.block.interact.nethercore.nether_grass: OP
+ftbu.claims.block.interact.nethercore.nether_rod: OP
+ftbu.claims.block.interact.nethercore.ore: OP
+ftbu.claims.block.interact.nethercore.slab_double_stone: OP
+ftbu.claims.block.interact.nethercore.slab_half_stone: OP
+ftbu.claims.block.interact.nethercore.soul_glass: OP
+ftbu.claims.block.interact.nethercore.stairs_stone: OP
+ftbu.claims.block.interact.nethercore.stairs_stone_brick: OP
+ftbu.claims.block.interact.nethercore.stairs_stone_cobble: OP
+ftbu.claims.block.interact.nethercore.stone: OP
+ftbu.claims.block.interact.nethercore.wall_stone: OP
 ftbu.claims.block.interact.opencomputers.accesspoint: OP
 ftbu.claims.block.interact.opencomputers.adapter: OP
 ftbu.claims.block.interact.opencomputers.assembler: OP
@@ -9984,6 +10014,23 @@ ftbu.claims.item.natura.redwood_logs: ALL
 ftbu.claims.item.natura.redwood_sapling: ALL
 ftbu.claims.item.natura.respawn_obelisk: ALL
 ftbu.claims.item.natura.soups: ALL
+ftbu.claims.item.nethercore.compressed_netherrack: ALL
+ftbu.claims.item.nethercore.nether_coal: ALL
+ftbu.claims.item.nethercore.nether_coal_block: ALL
+ftbu.claims.item.nethercore.nether_furnace: ALL
+ftbu.claims.item.nethercore.nether_furnace_lit: ALL
+ftbu.claims.item.nethercore.nether_grass: ALL
+ftbu.claims.item.nethercore.nether_rod: ALL
+ftbu.claims.item.nethercore.nether_spore: ALL
+ftbu.claims.item.nethercore.ore: ALL
+ftbu.claims.item.nethercore.slab_double_stone: ALL
+ftbu.claims.item.nethercore.slab_half_stone: ALL
+ftbu.claims.item.nethercore.soul_glass: ALL
+ftbu.claims.item.nethercore.stairs_stone: ALL
+ftbu.claims.item.nethercore.stairs_stone_brick: ALL
+ftbu.claims.item.nethercore.stairs_stone_cobble: ALL
+ftbu.claims.item.nethercore.stone: ALL
+ftbu.claims.item.nethercore.wall_stone: ALL
 ftbu.claims.item.opencomputers.accesspoint: ALL
 ftbu.claims.item.opencomputers.adapter: ALL
 ftbu.claims.item.opencomputers.assembler: ALL
