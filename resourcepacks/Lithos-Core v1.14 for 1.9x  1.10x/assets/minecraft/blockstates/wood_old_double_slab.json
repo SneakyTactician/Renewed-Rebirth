@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "normal": { "model": "wood/double_slab_oak" },
-        "all":    { "model": "wood/double_slab_oak" }
-    }
-}

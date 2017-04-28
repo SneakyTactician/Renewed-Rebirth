@@ -1,8 +1,0 @@
-{
-    "parent": "block/door_top_mine",
-    "textures": {
-        "edge": "blocks/door_spruce-edge",
-        "front": "blocks/door_spruce_upper",
-        "back": "blocks/door_spruce_upper-rh"
-    }
-}

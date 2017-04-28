@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_top",
-    "textures": {
-    	"top": "blocks/stonebrick_cracked",
-        "side": "blocks/monster_brick_cracked"
-    }
-}

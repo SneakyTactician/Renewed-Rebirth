@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_column",
-  "textures":
-  {
-     "end": "lithos_mod:blocks/block_brass",
-     "side": "lithos_mod:blocks/blockslab_brass"
-  }
-}

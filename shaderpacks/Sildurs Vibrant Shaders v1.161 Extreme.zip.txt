@@ -1,4 +1,0 @@
-#Thu Mar 30 22:15:55 CDT 2017
-Bloom=false
-Godrays_Density=0.575
-Godrays=false

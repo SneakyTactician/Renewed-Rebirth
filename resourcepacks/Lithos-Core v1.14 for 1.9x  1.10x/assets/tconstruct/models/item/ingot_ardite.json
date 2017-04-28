@@ -1,6 +1,0 @@
-{
-    "parent": "tconstruct:items/defaultitems",
-    "textures": {
-        "layer0": "lithos_mod:items/ingot_ardite"
-    }
-}

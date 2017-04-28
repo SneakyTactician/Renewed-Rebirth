@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:fast
-resourcePacks:["Lithos-Core v1.14 for 1.9x  1.10x","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions","Clouds-Pack (Modified) - updated","Clouds-Pack (Modified) - updated.zip"]
+resourcePacks:["Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_US
@@ -87,6 +87,10 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
+key_cfg.keybind.SelectionBox:48
+key_cfg.keybind.LightLevel:38
+key_cfg.keybind.ChunkBorders:67
+key_cfg.keybind.Volume:47
 key_psimisc.keybind:46
 key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
@@ -204,6 +208,7 @@ key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
 key_key.craftingGrid:46
+key_key.betterfoliage.gui:66
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
@@ -230,8 +235,8 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-soundCategory_master:0.7605634
-soundCategory_music:0.5422535
+soundCategory_master:1.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

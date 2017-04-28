@@ -1,8 +1,0 @@
-{
-    "parent": "basemetals:block/plate",
-    "textures": {
-        "top": "lithos_mod:blocks/block_electrum",
-        "side": "lithos_mod:blocks/block_electrum",
-        "bottom": "lithos_mod:blocks/block_electrum"
-    }
-}

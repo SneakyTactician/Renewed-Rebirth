@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures":
-  {
-    "bottom": "lithos_mod:blocks/block_enderium",
-    "top": "lithos_mod:blocks/block_enderium",
-    "side": "lithos_mod:blocks/block_enderium"
-  }
-}

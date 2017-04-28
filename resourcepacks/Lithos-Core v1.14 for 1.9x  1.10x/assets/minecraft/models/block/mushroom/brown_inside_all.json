@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_random3",
-    "textures": {
-        "top-bottom": "blocks/mushroom_block_inside",
-        "side_a": "blocks/mushroom_block_inside",
-        "side_b": "blocks/mushroom_block_inside"
-    }
-}

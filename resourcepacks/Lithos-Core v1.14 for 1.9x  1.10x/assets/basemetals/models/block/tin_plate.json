@@ -1,8 +1,0 @@
-{
-    "parent": "basemetals:block/plate",
-    "textures": {
-        "top": "lithos_mod:blocks/block_tin",
-        "side": "lithos_mod:blocks/block_tin",
-        "bottom": "lithos_mod:blocks/block_tin"
-    }
-}
