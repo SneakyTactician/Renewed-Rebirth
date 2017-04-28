@@ -1,0 +1,9 @@
+{
+    "variants": {
+       "normal": [ 
+            { "model": "nether/magma_1", "weight": 1 },
+            { "model": "nether/magma_2", "weight": 1 },
+            { "model": "nether/magma_3", "weight": 1 }
+        ]
+    }
+}

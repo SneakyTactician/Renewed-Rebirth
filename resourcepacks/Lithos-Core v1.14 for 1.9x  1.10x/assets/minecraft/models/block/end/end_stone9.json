@@ -1,0 +1,12 @@
+{
+    "__comment": "This file was created by Eleazzaar for Lithos:Core",
+    "parent": "block/cube",
+    "textures": {
+        "up": "blocks/end_stone3",
+        "down": "blocks/end_stone3",
+        "north": "blocks/end_stone",
+        "south": "blocks/end_stone",
+        "east": "blocks/end_stone4",
+        "west": "blocks/end_stone2"
+    }
+}

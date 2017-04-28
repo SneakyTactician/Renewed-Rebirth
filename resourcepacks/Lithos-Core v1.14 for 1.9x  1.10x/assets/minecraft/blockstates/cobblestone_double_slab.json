@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+        	{ "model": "slabs/cobble_double_1" },
+        	{ "model": "slabs/cobble_double_2" },
+        	{ "model": "slabs/cobble_double_3" }
+        	],
+        "all":    { "model": "slabs/cobble_top" }
+    }
+}

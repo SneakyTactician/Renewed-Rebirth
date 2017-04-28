@@ -1,0 +1,71 @@
+{
+    "__comment": "Created in part with opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+    	"particle": "blocks/iron_bars_v",
+        "bars_v": "blocks/iron_bars_v",
+        "bars_h": "blocks/iron_bars_h"
+    },
+    "elements": [
+        {
+            "from": [7,15.5,7],
+            "to": [9,16.5,9],
+            "faces": {
+                "up": {
+                    "uv": [7,0,9,2],
+                    "texture": "#bars_h"
+                },
+                "down": {
+                    "uv": [7,3,9,5],
+                    "texture": "#bars_h"
+                },
+                "west": {
+                    "uv": [7,2,9,3],
+                    "texture": "#bars_h"
+                },
+                "east": {
+                    "uv": [7,2,9,3],
+                    "texture": "#bars_h"
+                },
+                "north": {
+                    "uv": [7,5,9,6],
+                    "texture": "#bars_h"
+                },
+                "south": {
+                    "uv": [9,5,7,6],
+                    "texture": "#bars_h"
+                }
+            }
+        },
+        {
+            "from": [7,-0.5,7],
+            "to": [9,0.5,9],
+            "faces": {
+                "up": {
+                    "uv": [7,6,9,8],
+                    "texture": "#bars_h"
+                },
+                "down": {
+                    "uv": [7,9,9,11],
+                    "texture": "#bars_h"
+                },
+                "west": {
+                    "uv": [7,8,9,9],
+                    "texture": "#bars_h"
+                },
+                "east": {
+                    "uv": [7,8,9,9],
+                    "texture": "#bars_h"
+                },
+                "north": {
+                    "uv": [7,11,9,12],
+                    "texture": "#bars_h"
+                },
+                "south": {
+                    "uv": [9,11,7,12],
+                    "texture": "#bars_h"
+                }
+            }
+        }
+    ]
+}

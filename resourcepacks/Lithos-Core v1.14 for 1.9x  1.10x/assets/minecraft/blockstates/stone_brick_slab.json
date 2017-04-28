@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "half=bottom": [
+        	{ "model": "slabs/stonebrick_half_1" },
+        	{ "model": "slabs/stonebrick_half_2" },
+        	{ "model": "slabs/stonebrick_half_3" }
+        	],
+        	
+        "half=top": [
+        	{ "model": "slabs/stonebrick_upper_1" },
+        	{ "model": "slabs/stonebrick_upper_2" },
+        	{ "model": "slabs/stonebrick_upper_3" }
+        	]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/slabs/master_upper",
+    "textures": {
+        "bottom": "blocks/nether_brick_top",
+        "top": "blocks/nether_brick_top",
+        "side_a": "blocks/nether_brick",
+        "side_b": "blocks/nether_brick2"
+    }
+}

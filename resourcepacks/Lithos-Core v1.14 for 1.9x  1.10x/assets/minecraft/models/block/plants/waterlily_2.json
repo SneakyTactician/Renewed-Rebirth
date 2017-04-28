@@ -1,0 +1,6 @@
+{
+    "parent": "block/plants/waterlily_master",
+    "textures": {
+        "A": "blocks/waterlily2"
+    }
+}

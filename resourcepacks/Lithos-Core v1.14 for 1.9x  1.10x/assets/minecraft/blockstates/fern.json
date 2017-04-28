@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+        	{ "model": "plants/fern"  },
+        	{ "model": "plants/fern", "y": 90, "uvlock": false },
+        	{ "model": "plants/fern", "y": 180, "uvlock": false  },
+        	{ "model": "plants/fern", "y": 270, "uvlock": false  }
+        	]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "variant=default": [
+        	{ "model": "slabs/purpur_double_1" },
+        	{ "model": "slabs/purpur_double_2" },
+        	{ "model": "slabs/purpur_double_3" }
+        	]
+    }
+}

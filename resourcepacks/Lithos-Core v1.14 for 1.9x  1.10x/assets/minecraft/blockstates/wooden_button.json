@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=up,powered=false":    { "model": "redstone/button_wood_square" },
+        "facing=down,powered=false":  { "model": "redstone/button_wood_square", "x": 180 },
+        "facing=east,powered=false":  { "model": "redstone/button_wood", "x": 90, "y": 90 },
+        "facing=west,powered=false":  { "model": "redstone/button_wood", "x": 90, "y": 270 },
+        "facing=south,powered=false": { "model": "redstone/button_wood", "x": 90, "y": 180 },
+        "facing=north,powered=false": { "model": "redstone/button_wood", "x": 90 },
+        "facing=up,powered=true":     { "model": "redstone/button_wood_square_pressed" },
+        "facing=down,powered=true":   { "model": "redstone/button_wood_square_pressed", "x": 180 },
+        "facing=east,powered=true":   { "model": "redstone/button_wood_pressed", "x": 90, "y": 90 },
+        "facing=west,powered=true":   { "model": "redstone/button_wood_pressed", "x": 90, "y": 270 },
+        "facing=south,powered=true":  { "model": "redstone/button_wood_pressed", "x": 90, "y": 180 },
+        "facing=north,powered=true":  { "model": "redstone/button_wood_pressed", "x": 90 }
+    }
+}

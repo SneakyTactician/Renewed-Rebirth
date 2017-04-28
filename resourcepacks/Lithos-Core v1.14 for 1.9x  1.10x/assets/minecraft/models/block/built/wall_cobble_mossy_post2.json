@@ -1,0 +1,8 @@
+{
+    "parent": "block/built/wall_post",
+    "textures": {
+        "walla": "blocks/cobblestone_mossy2",
+        "wallb": "blocks/cobblestone_mossy3"
+        
+    }
+}

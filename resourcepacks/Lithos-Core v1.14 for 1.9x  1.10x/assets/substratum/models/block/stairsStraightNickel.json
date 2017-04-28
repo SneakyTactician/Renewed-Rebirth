@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures":
+  {
+    "bottom": "lithos_mod:blocks/block_nickel",
+    "top": "lithos_mod:blocks/block_nickel",
+    "side": "lithos_mod:blocks/block_nickel"
+  }
+}

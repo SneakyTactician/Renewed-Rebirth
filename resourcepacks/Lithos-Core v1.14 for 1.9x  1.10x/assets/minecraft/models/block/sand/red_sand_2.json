@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_random3",
+    "textures": {
+        "top-bottom": "blocks/red_sand2",
+        "side_a": "blocks/red_sand3",
+        "side_b":  "blocks/red_sand"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+                "normal": [ 
+            { "model": "wood/planks_birch", "weight": 1 },
+            { "model": "wood/planks_birch2", "weight": 1 },
+            { "model": "wood/planks_birch3", "weight": 1 }
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_random_bottom_top",
+    "textures": {
+        "top": "blocks/quartz_block_top2",
+        "bottom": "blocks/quartz_block_bottom2",
+        "side_a": "blocks/quartz_block_side2",
+        "side_b": "blocks/quartz_block_side3"
+    }
+}

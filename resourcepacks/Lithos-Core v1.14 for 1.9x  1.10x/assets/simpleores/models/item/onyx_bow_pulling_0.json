@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "lithos_mod:items/onyx_bow_pulling_0"
+    }
+}

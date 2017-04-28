@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "half=bottom": [
+        	{ "model": "slabs/sandstone_half_1" },
+        	{ "model": "slabs/sandstone_half_2" },
+        	{ "model": "slabs/sandstone_half_3" }
+        	],
+        	
+        "half=top": [
+        	{ "model": "slabs/sandstone_upper_1" },
+        	{ "model": "slabs/sandstone_upper_2" },
+        	{ "model": "slabs/sandstone_upper_3" }
+        	]
+    }
+}

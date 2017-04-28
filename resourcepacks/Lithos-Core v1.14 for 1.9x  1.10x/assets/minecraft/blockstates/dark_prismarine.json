@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "aquatic/prismarine_dark", "weight": 1},
+            { "model": "aquatic/prismarine_dark2", "weight": 1},
+            { "model": "aquatic/prismarine_dark3", "weight": 1}
+        ]
+    }
+}

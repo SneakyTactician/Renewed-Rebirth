@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence/fence_post_ns",
+    "textures": {
+        "post": "blocks/fence/birch_post",
+        "slats": "blocks/fence/birch_slats"
+    }
+}

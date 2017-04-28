@@ -1,0 +1,66 @@
+{
+    "variants": {
+        "variant=north_west": [
+        			{ "model": "mushroom/brown_nw_1" },
+        			{ "model": "mushroom/brown_nw_2" },
+        			{ "model": "mushroom/brown_nw_3" }
+        		],
+        						
+        "variant=north": [
+        			{ "model": "mushroom/brown_n_1" },
+        			{ "model": "mushroom/brown_n_2" },
+        			{ "model": "mushroom/brown_n_3" }
+        		],
+        "variant=north_east": [
+        			{ "model": "mushroom/brown_ne_1" },
+        			{ "model": "mushroom/brown_ne_2" },
+        			{ "model": "mushroom/brown_ne_3" }
+        		],
+        "variant=west": [
+        			{ "model": "mushroom/brown_w_1" },
+        			{ "model": "mushroom/brown_w_2" },
+        			{ "model": "mushroom/brown_w_3" }
+        		],
+        "variant=center": [
+        			{ "model": "mushroom/brown_c_1" },
+        			{ "model": "mushroom/brown_c_2" },
+        			{ "model": "mushroom/brown_c_3" }
+        		],
+        "variant=east": [
+        			{ "model": "mushroom/brown_e_1" },
+        			{ "model": "mushroom/brown_e_2" },
+        			{ "model": "mushroom/brown_e_3" }
+        		],
+        "variant=south_west": [
+        			{ "model": "mushroom/brown_sw_1" },
+        			{ "model": "mushroom/brown_sw_2" },
+        			{ "model": "mushroom/brown_sw_3" }
+        		],
+        "variant=south": [
+        			{ "model": "mushroom/brown_s_1" },
+        			{ "model": "mushroom/brown_s_2" },
+        			{ "model": "mushroom/brown_s_3" }
+        		],
+        "variant=south_east": [
+        			{ "model": "mushroom/brown_se_1" },
+        			{ "model": "mushroom/brown_se_2" },
+        			{ "model": "mushroom/brown_se_3" }
+        		],
+        "variant=stem": [
+        			{ "model": "mushroom/brown_stem" },
+        			{ "model": "mushroom/brown_stem", "y": 90   }
+        		],
+        "variant=all_stem": [
+        			{ "model": "mushroom/brown_stem_all" },
+        			{ "model": "mushroom/brown_stem_all", "y": 90   }
+        		],
+        "variant=all_outside": [
+        			{ "model": "mushroom/brown_cap_all" },
+        			{ "model": "mushroom/brown_cap_all", "y": 90  }
+        		],
+        "variant=all_inside": [
+        			{ "model": "mushroom/brown_inside_all" },
+        			{ "model": "mushroom/brown_inside_all", "y": 90  }
+        		]
+    }
+}

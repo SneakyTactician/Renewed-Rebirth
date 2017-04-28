@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+        	{ "model": "slabs/quartz_double_1" },
+        	{ "model": "slabs/quartz_double_2" },
+        	{ "model": "slabs/quartz_double_3" }
+        	],
+        "all":    { "model": "slabs/quartz_top" }
+    }
+}

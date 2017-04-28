@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "half=bottom": [
+        	{ "model": "slabs/nether_brick_half_1" },
+        	{ "model": "slabs/nether_brick_half_2" },
+        	{ "model": "slabs/nether_brick_half_3" }
+        	],
+        	
+        "half=top": [
+        	{ "model": "slabs/nether_brick_upper_1" },
+        	{ "model": "slabs/nether_brick_upper_2" },
+        	{ "model": "slabs/nether_brick_upper_3" }
+        	]
+    }
+}

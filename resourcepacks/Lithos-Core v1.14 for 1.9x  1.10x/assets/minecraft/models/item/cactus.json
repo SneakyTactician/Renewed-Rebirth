@@ -1,0 +1,125 @@
+{
+    "__comment": "Created in part with opl's Model Creator",
+    "parent": "block/block",
+    "ambientocclusion": false,
+    "textures": {
+        "top": "blocks/cactus_top",
+        "spines_b": "blocks/cactus_spines_2",
+        "side_b": "blocks/cactus_side2",
+        "spines_a": "blocks/cactus_spines_1",
+        "side_a": "blocks/cactus_side",
+        "particle": "blocks/cactus_side"
+    },
+    "elements": [
+        {
+            "from": [2,0,2],
+            "to": [14,9,14],
+            "faces": {
+                "up": {
+                    "texture": "#top"
+                },
+                "down": {
+                    "texture": "#top"
+                },
+                "west": {
+                    "uv": [2,0,14,16],
+                    "texture": "#side_b"
+                },
+                "east": {
+                    "uv": [2,0,14,16],
+                    "texture": "#side_b"
+                },
+                "north": {
+                    "uv": [2,0,14,16],
+                    "texture": "#side_a"
+                },
+                "south": {
+                    "uv": [2,0,14,16],
+                    "texture": "#side_a"
+                }
+            }
+        },
+        {
+            "from": [3,9,3],
+            "to": [13,14,13],
+            "faces": {
+                "up": {
+                    "texture": "#top"
+                },
+                "west": {
+                    "uv": [2.5,12,13.5,16],
+                    "texture": "#side_b"
+                },
+                "east": {
+                    "uv": [2.5,12,13.5,16],
+                    "texture": "#side_b"
+                },
+                "north": {
+                    "uv": [2.5,12,13.5,16],
+                    "texture": "#side_a"
+                },
+                "south": {
+                    "uv": [2.5,12,13.5,16],
+                    "texture": "#side_a"
+                }
+            }
+        },
+        {
+            "from": [5.5,0,0],
+            "to": [5.5,16,16],
+            "faces": {
+                "west": {
+                    "uv": [2,0,14,10.5],
+                    "texture": "#spines_a"
+                },
+                "east": {
+                    "uv": [14,0,2,10.5],
+                    "texture": "#spines_a"
+                }
+            }
+        },
+        {
+            "from": [10.5,0,0],
+            "to": [10.5,16,16],
+            "faces": {
+                "west": {
+                    "uv": [2,0,14,10.5],
+                    "texture": "#spines_b"
+                },
+                "east": {
+                    "uv": [14,0,2,10.5],
+                    "texture": "#spines_b"
+                }
+            }
+        },
+        {
+            "from": [0,0,5.5],
+            "to": [16,16,5.5],
+            "faces": {
+                "north": {
+                    "uv": [2,0,14,10.5],
+                    "texture": "#spines_a"
+                },
+                "south": {
+                    "uv": [14,0,2,10.5],
+                    "texture": "#spines_a",
+                    "tintindex": 0
+                }
+            }
+        },
+        {
+            "from": [0,0,10.5],
+            "to": [16,16,10.5],
+            "faces": {
+                "north": {
+                    "uv": [2,0,14,10.5],
+                    "texture": "#spines_b"
+                },
+                "south": {
+                    "uv": [14,0,2,16],
+                    "texture": "#spines_b"
+                }
+            }
+        }
+    ]
+}

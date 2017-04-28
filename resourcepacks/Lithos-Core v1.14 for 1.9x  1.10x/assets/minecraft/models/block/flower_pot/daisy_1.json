@@ -1,0 +1,9 @@
+{
+    "parent": "block/flower_pot/flower_pot_fourcross",
+    "textures": {
+        "A": "blocks/plants/daisy_pot_1",
+        "B": "blocks/plants/daisy_pot_2",
+        "C": "blocks/plants/daisy_pot_3",
+        "D": "blocks/plants/daisy_pot_4"
+    }
+}

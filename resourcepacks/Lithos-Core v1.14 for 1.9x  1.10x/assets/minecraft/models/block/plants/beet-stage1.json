@@ -1,0 +1,6 @@
+{
+    "parent": "block/plants/crop-aligned",
+    "textures": {
+        "crop": "blocks/beetroots_stage_1"
+    }
+}

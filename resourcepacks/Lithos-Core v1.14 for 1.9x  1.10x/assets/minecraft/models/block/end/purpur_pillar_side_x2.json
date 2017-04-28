@@ -1,0 +1,8 @@
+{
+    "parent": "block/column_side_x",
+    "textures": {
+        "end": "blocks/purpur_pillar_top2",
+        "side_a": "blocks/purpur_pillar2",
+        "side_b": "blocks/purpur_pillar3"
+    }
+}

@@ -1,0 +1,20 @@
+{
+"textures": {
+    "particle": "blocks/brewing_stand_3d",
+    "stand": "blocks/brewing_stand_3d"
+},
+"elements": [ 
+{
+    "from": [ 7.5, 0.5, 7.5 ],
+    "to": [ 8.5, 1.5, 8.5 ],
+    "faces": {
+        "down":  { "uv": [ 8.5, 8.5, 7.5, 7.5 ], "texture": "#stand" },
+        "up":    { "uv": [ 7.5, 7.5, 8.5, 8.5 ], "texture": "#stand" },
+        "north": { "uv": [ 7.5, 14.5, 8.5, 15.5 ], "texture": "#stand" },
+        "south": { "uv": [ 7.5, 14.5, 8.5, 15.5 ], "texture": "#stand" },
+        "west":  { "uv": [ 7.5, 14.5, 8.5, 15.5 ], "texture": "#stand" },
+        "east":  { "uv": [ 7.5, 14.5, 8.5, 15.5 ], "texture": "#stand" }
+    }
+}
+]
+}

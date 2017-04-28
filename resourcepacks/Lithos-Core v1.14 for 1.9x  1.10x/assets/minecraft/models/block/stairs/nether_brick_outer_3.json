@@ -1,0 +1,9 @@
+{
+    "parent": "block/stairs/master_outer",
+    "textures": {
+        "bottom": "blocks/nether_brick_top3",
+        "top": "blocks/nether_brick_top3",
+        "side_a": "blocks/nether_brick3",
+        "side_b": "blocks/nether_brick"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_random_bottom_top",
+    "textures": {
+        "top": "blocks/netherrack_top2",
+        "bottom": "blocks/netherrack_bottom2",
+        "side_a": "blocks/netherrack2",
+        "side_b": "blocks/netherrack3"
+    }
+}

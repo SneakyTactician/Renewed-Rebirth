@@ -1,0 +1,6 @@
+{
+    "parent": "tconstruct:items/defaultitems",
+    "textures": {
+        "layer0": "lithos_mod:items/nugget_ardite"
+    }
+}

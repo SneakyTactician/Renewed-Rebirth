@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "facing=up": [
+        	{ "model": "end/end_rod" },
+        	{ "model": "end/end_rod2" },
+        	{ "model": "end/end_rod3" }
+        	],
+        "facing=down": [
+        	{ "model": "end/end_rod", "x": 180 },
+        	{ "model": "end/end_rod2", "x": 180 },
+        	{ "model": "end/end_rod3", "x": 180 }
+        	],
+        "facing=east": [
+        	{ "model": "end/end_rod", "y": 90, "x": 90 },
+        	{ "model": "end/end_rod2", "y": 90, "x": 90 },
+        	{ "model": "end/end_rod3", "y": 90, "x": 90 }
+        	],
+        "facing=south": [
+        	{ "model": "end/end_rod", "y": 180, "x": 90 },
+        	{ "model": "end/end_rod2", "y": 180, "x": 90 },
+        	{ "model": "end/end_rod3", "y": 180, "x": 90 }
+        	],
+        "facing=west": [
+        	{ "model": "end/end_rod", "y": 270, "x": 90 },
+        	{ "model": "end/end_rod2", "y": 270, "x": 90 },
+        	{ "model": "end/end_rod3", "y": 270, "x": 90 }
+        	],
+        "facing=north": [
+        	{ "model": "end/end_rod", "y": 0, "x": 90 },
+        	{ "model": "end/end_rod2", "y": 0, "x": 90 },
+        	{ "model": "end/end_rod3", "y": 0, "x": 90 }
+        	]
+    }
+}

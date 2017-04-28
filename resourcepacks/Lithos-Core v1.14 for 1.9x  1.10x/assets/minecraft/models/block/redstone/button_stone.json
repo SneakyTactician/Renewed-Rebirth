@@ -1,0 +1,6 @@
+{
+    "parent": "block/redstone/button",
+    "textures": {
+        "texture": "blocks/stone_button"
+    }
+}

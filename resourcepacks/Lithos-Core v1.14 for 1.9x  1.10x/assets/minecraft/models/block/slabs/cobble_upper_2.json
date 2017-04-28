@@ -1,0 +1,9 @@
+{
+    "parent": "block/slabs/master_upper",
+    "textures": {
+        "bottom": "blocks/cobblestone_top2",
+        "top": "blocks/cobblestone_top2",
+        "side_a": "blocks/cobblestone2",
+        "side_b": "blocks/cobblestone3"
+    }
+}

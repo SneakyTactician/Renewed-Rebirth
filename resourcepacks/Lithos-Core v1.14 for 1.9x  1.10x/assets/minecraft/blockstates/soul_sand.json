@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [ 
+            { "model": "nether/soul_sand", "weight": 1 },
+            { "model": "nether/soul_sand2", "weight": 1 },
+            { "model": "nether/soul_sand3", "weight": 1 },
+            { "model": "nether/soul_sand4", "weight": 1 }
+        ]
+    }
+}

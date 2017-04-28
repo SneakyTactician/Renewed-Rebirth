@@ -1,0 +1,6 @@
+{
+    "parent": "block/iron_trapdoor_open",
+    "textures": {
+        "texture": "lithos_mod:blocks/block_steel"
+    }
+}

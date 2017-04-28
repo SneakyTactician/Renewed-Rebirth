@@ -1,0 +1,73 @@
+{
+    "variants": {
+        "variant=north_west": [
+        	{ "model": "mushroom/red_nw_1", "weight": 1     },
+        	{ "model": "mushroom/red_nw_2", "weight": 1     },
+        	{ "model": "mushroom/red_nw_3", "weight": 1     },
+        	{ "model": "mushroom/red_nw_4", "weight": 1     }
+        	],
+        "variant=north": [
+        	{ "model": "mushroom/red_n_1", "weight": 1    },
+        	{ "model": "mushroom/red_n_2", "weight": 1    },
+        	{ "model": "mushroom/red_n_3", "weight": 1    },
+        	{ "model": "mushroom/red_n_4", "weight": 1    }
+        	],
+        "variant=north_east": [
+        	{ "model": "mushroom/red_ne_1", "weight": 1     },
+        	{ "model": "mushroom/red_ne_2", "weight": 1     },
+        	{ "model": "mushroom/red_ne_3", "weight": 1     },
+        	{ "model": "mushroom/red_ne_4", "weight": 1     }
+        	],
+        "variant=west": [
+        	{ "model": "mushroom/red_w_1", "weight": 1    },
+        	{ "model": "mushroom/red_w_2", "weight": 1    },
+        	{ "model": "mushroom/red_w_3", "weight": 1    },
+        	{ "model": "mushroom/red_w_4", "weight": 1    }
+        	],
+        "variant=center":  [
+        	{ "model": "mushroom/red_c_1", "weight": 1   },
+        	{ "model": "mushroom/red_c_2", "weight": 1   },
+        	{ "model": "mushroom/red_c_3", "weight": 1   },
+        	{ "model": "mushroom/red_c_4", "weight": 1   }
+        	],
+        "variant=east": [
+        	{ "model": "mushroom/red_e_1", "weight": 1    },
+        	{ "model": "mushroom/red_e_2", "weight": 1    },
+        	{ "model": "mushroom/red_e_3", "weight": 1    },
+        	{ "model": "mushroom/red_e_4", "weight": 1    }
+        	],
+        "variant=south_west": [
+        	{ "model": "mushroom/red_sw_1", "weight": 1     },
+        	{ "model": "mushroom/red_sw_2", "weight": 1     },
+        	{ "model": "mushroom/red_sw_3", "weight": 1     },
+        	{ "model": "mushroom/red_sw_4", "weight": 1     }
+        	],
+        "variant=south": [
+        	{ "model": "mushroom/red_s_1", "weight": 1     },
+        	{ "model": "mushroom/red_s_2", "weight": 1     },
+        	{ "model": "mushroom/red_s_3", "weight": 1     },
+        	{ "model": "mushroom/red_s_4", "weight": 1     }
+        	],
+        "variant=south_east": [
+        	{ "model": "mushroom/red_se_1", "weight": 1      },
+        	{ "model": "mushroom/red_se_2", "weight": 1      },
+        	{ "model": "mushroom/red_se_3", "weight": 1      },
+        	{ "model": "mushroom/red_se_4", "weight": 1      }
+        	],
+        "variant=stem": [
+        	{ "model": "mushroom/red_stem" },
+        	{ "model": "mushroom/red_stem", "y": 90 }
+        	],
+        "variant=all_stem": { "model": "mushroom/red_stem_all" },
+        "variant=all_outside": [
+        	{ "model": "mushroom/red_cap_all_1", "weight": 1  },
+        	{ "model": "mushroom/red_cap_all_2", "weight": 1  },
+        	{ "model": "mushroom/red_cap_all_3", "weight": 1  },
+        	{ "model": "mushroom/red_cap_all_4", "weight": 1  }
+        	],
+        "variant=all_inside": { "model": "mushroom/red_inside_all" }
+    }
+}
+
+
+

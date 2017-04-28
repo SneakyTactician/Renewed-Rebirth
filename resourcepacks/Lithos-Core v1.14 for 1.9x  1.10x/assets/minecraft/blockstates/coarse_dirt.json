@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [ 
+            { "model": "soil/coarse_dirt", "weight": 1 },
+            { "model": "soil/coarse_dirt2", "weight": 1 },
+            { "model": "soil/coarse_dirt3", "weight": 1 }
+        ]
+    }
+}

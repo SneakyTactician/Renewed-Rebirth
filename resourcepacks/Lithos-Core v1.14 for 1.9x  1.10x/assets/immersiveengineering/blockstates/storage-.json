@@ -1,0 +1,32 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"model": "cube_all"
+	},
+	"variants":
+	{
+		"inventory,type=copper": [{"textures": { "all": "lithos_mod:block_copper" }}],
+		"inventory,type=aluminum": [{"textures": { "all": "lithos_mod:block_aluminum" }}],
+		"inventory,type=lead": [{"textures": { "all": "lithos_mod:block_lead" }}],
+		"inventory,type=silver": [{"textures": { "all": "lithos_mod:block_silver" }}],
+		"inventory,type=nickel": [{"textures": { "all": "lithos_mod:bloc_nickel" }}],
+		"inventory,type=uranium": [{"textures": { "side": "lithos_mod:block_uranium" }}],
+		"inventory,type=constantan": [{"textures": { "all": "immersiveengineering:blocks/storage_constantan" }}],
+		"inventory,type=electrum": [{"textures": { "all": "lithos_mod:block_electrum" }}],
+		"inventory,type=steel": [{"textures": { "all": "lithos_mod:block_steel" }}],
+		"type":
+		{
+			"copper": {"textures": { "all": "lithos_mod:block_copper" }},
+			"aluminum": {"textures": { "all": "lithos_mod:block_aluminum" }},
+			"lead": {"textures": { "all": "lithos_mod:block_lead" }},
+			"silver": {"textures": { "all": "lithos_mod:block_silver" }},
+			"nickel": {"textures": { "all": "lithos_mod:block_nickel" }},
+			"uranium": {"textures": { "all": "lithos_mod:block_uranium" }},
+			"constantan": {"textures": { "all": "immersiveengineering:blocks/storage_constantan" }},
+			"electrum": {"textures": { "all": "lithos_mod:block__electrum" }},
+			"steel": {"textures": { "all": "lithos_mod:block__steel" }}
+		}
+	}
+}

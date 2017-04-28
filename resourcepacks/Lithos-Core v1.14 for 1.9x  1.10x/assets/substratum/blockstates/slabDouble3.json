@@ -1,0 +1,10 @@
+{
+  "variants":
+  {
+    "half=top,metal=lumium": { "model": "substratum:slabDoubleLumium"  },
+    "half=top,metal=enderium": { "model": "substratum:slabDoubleEnderium"  },
+    "half=bottom,metal=lumium": { "model": "substratum:slabDoubleLumium"  },
+    "half=bottom,metal=enderium": { "model": "substratum:slabDoubleEnderium"  }
+  }
+}
+

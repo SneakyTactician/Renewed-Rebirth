@@ -1,0 +1,10 @@
+{
+    "parent": "block/cube_random_4",
+    "textures": {
+        "top-bottom": "blocks/mushroom_block_skin_red",
+        "north": "blocks/mushroom_block_skin_red2",
+        "south": "blocks/mushroom_block_skin_red2",
+        "east": "blocks/mushroom_block_skin_red3",
+        "west": "blocks/mushroom_block_skin_red4"
+    }
+}

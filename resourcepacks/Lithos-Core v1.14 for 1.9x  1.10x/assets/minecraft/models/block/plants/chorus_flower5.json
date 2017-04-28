@@ -1,0 +1,8 @@
+{
+    "parent": "block/plants/chorus_flower0",
+    "textures": {
+        "side": "blocks/plants/chorus_f5",
+        "top-bottom": "blocks/plants/chorus_w2",
+        "particle": "blocks/plants/chorus1"
+    }
+}

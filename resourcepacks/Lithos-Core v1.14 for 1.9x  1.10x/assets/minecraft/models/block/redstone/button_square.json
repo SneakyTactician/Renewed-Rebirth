@@ -1,0 +1,35 @@
+{
+    "__comment": "Created in part with opl's Model Creator",
+    "ambientocclusion": true,
+    "textures": {
+        "particle": "#texture"
+    },
+    "elements": [
+        {
+            "from": [5.5,0,5.5],
+            "to": [10.5,2,10.5],
+            "faces": {
+                "up": {
+                    "uv": [5.0,10.0,11.0,6.0],
+                    "texture": "#texture"
+                },
+                "down": {
+                    "texture": "#texture",
+                    "cullface": "down"
+                },
+                "west": {
+                    "texture": "#texture"
+                },
+                "east": {
+                    "texture": "#texture"
+                },
+                "north": {
+                    "texture": "#texture"
+                },
+                "south": {
+                    "texture": "#texture"
+                }
+            }
+        }
+    ]
+}

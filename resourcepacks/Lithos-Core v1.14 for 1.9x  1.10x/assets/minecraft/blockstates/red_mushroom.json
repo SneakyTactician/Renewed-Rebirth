@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "plants/mushroom_red_1" },
+            { "model": "plants/mushroom_red_1", "y": 90 },
+            { "model": "plants/mushroom_red_1", "y": 180 },
+            { "model": "plants/mushroom_red_1", "y": 270 },
+            { "model": "plants/mushroom_red_2" },
+            { "model": "plants/mushroom_red_2", "y": 90 },
+            { "model": "plants/mushroom_red_2", "y": 180 },
+            { "model": "plants/mushroom_red_2", "y": 270 },
+            { "model": "plants/mushroom_red_3" },
+            { "model": "plants/mushroom_red_3", "y": 90 },
+            { "model": "plants/mushroom_red_3", "y": 180 },
+            { "model": "plants/mushroom_red_3", "y": 270 }
+        ]
+    }
+}

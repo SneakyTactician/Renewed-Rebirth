@@ -1,0 +1,11 @@
+{
+    "parent": "block/pumpkins/master",
+    "textures": {
+        "top": 	  "blocks/pumpkins/top_2",
+        "side_a": "blocks/pumpkins/side_2",
+        "side_b": "blocks/pumpkins/side_3",
+        "face":   "blocks/pumpkins/lit_2",
+        "bottom": "blocks/pumpkins/bottom_2",
+        "inside": "blocks/pumpkins/inside_lit"
+    }
+}

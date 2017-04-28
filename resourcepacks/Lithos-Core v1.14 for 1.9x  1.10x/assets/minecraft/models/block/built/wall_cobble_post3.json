@@ -1,0 +1,8 @@
+{
+    "parent": "block/built/wall_post",
+    "textures": {
+        "walla": "blocks/cobblestone3",
+        "wallb": "blocks/cobblestone"
+        
+    }
+}

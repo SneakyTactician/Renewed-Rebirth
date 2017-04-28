@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [ 
+            { "model": "nether/quartz_chiseled_1", "weight": 1 },
+            { "model": "nether/quartz_chiseled_2", "weight": 1 },
+            { "model": "nether/quartz_chiseled_3", "weight": 1 }
+        ]
+    }
+}

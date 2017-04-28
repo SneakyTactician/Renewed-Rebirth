@@ -1,0 +1,13 @@
+{
+    "__comment": "This file was created by Eleazzaar for Lithos:Core",
+    "parent": "block/soil/grass_master",
+    "textures": {
+        "particle": "blocks/dirt",
+        "bottom": "blocks/dirt",
+        "top": "blocks/grass_top",
+        "side_a": "blocks/grass_side",
+        "side_b": "blocks/grass_side2",
+        "overlay-side_a": "blocks/grass_side_overlay",
+        "overlay-side_b": "blocks/grass_side_overlay2"
+    }
+}

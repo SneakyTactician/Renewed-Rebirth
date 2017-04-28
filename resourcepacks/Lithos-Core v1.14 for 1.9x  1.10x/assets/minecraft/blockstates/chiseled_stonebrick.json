@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [ 
+            { "model": "stone/stonebrick_carved_1", "weight": 1 },
+            { "model": "stone/stonebrick_carved_2", "weight": 1 },
+            { "model": "stone/stonebrick_carved_3", "weight": 1 }
+        ]
+    }
+}

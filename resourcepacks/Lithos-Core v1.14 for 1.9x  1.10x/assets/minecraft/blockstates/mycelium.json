@@ -1,0 +1,31 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "soil/mycelium_1" },
+            { "model": "soil/mycelium_1", "y": 90 },
+            { "model": "soil/mycelium_1", "y": 180 },
+            { "model": "soil/mycelium_1", "y": 270 },
+            
+            { "model": "soil/mycelium_2" },
+            { "model": "soil/mycelium_2", "y": 90 },
+            { "model": "soil/mycelium_2", "y": 180 },
+            { "model": "soil/mycelium_2", "y": 270 },
+            
+            { "model": "soil/mycelium_3" },
+            { "model": "soil/mycelium_3", "y": 90 },
+            { "model": "soil/mycelium_3", "y": 180 },
+            { "model": "soil/mycelium_3", "y": 270 },
+            
+            { "model": "soil/mycelium_4" },
+            { "model": "soil/mycelium_4", "y": 90 },
+            { "model": "soil/mycelium_4", "y": 180 },
+            { "model": "soil/mycelium_4", "y": 270 }
+        ],
+        "snowy=true":  [
+        	{ "model": "soil/mycelium_snowed_1" },
+        	{ "model": "soil/mycelium_snowed_2" },
+        	{ "model": "soil/mycelium_snowed_3" },
+        	{ "model": "soil/mycelium_snowed_4" }
+        ]
+    }
+}

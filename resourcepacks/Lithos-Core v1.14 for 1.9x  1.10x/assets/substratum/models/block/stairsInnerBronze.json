@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures":
+  {
+    "bottom": "lithos_mod:blocks/block_bronze",
+    "top": "lithos_mod:blocks/block_bronze",
+    "side": "lithos_mod:blocks/block_bronze"
+  }
+}

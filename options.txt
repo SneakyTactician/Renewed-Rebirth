@@ -15,8 +15,8 @@ difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:fast
-resourcePacks:["The End Resource Pack","Modern HD","Faithful Mods 1.11.2-rv3","[1.10] R3D CRAFT 512x (v0.3.0)","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
-incompatibleResourcePacks:["The End Resource Pack","Faithful Mods 1.11.2-rv3"]
+resourcePacks:["Lithos-Core v1.14 for 1.9x  1.10x","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions","Clouds-Pack (Modified) - updated","Clouds-Pack (Modified) - updated.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_US
 chatVisibility:0

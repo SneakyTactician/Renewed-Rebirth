@@ -1,0 +1,9 @@
+{
+    "parent": "block/stairs/master_outer",
+    "textures": {
+        "bottom": "blocks/stonebrick",
+        "top": "blocks/stonebrick",
+        "side_a": "blocks/stonebrick",
+        "side_b": "blocks/stonebrick_ns2"
+    }
+}

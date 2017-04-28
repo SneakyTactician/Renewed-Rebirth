@@ -1,0 +1,8 @@
+{
+    "parent": "block/column_side_x",
+    "textures": {
+        "end": "blocks/quartz_block_lines_top3",
+        "side_a": "blocks/quartz_block_lines3",
+        "side_b": "blocks/quartz_block_lines"
+    }
+}

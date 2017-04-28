@@ -1,0 +1,22 @@
+{
+    "variants": {
+    	"normal": [ 
+            { "model": "plants/dandelion_1" },
+            { "model": "plants/dandelion_1", "y": 90 },
+            { "model": "plants/dandelion_1", "y": 180 },
+            { "model": "plants/dandelion_1", "y": 270 },
+            { "model": "plants/dandelion_2" },
+            { "model": "plants/dandelion_2", "y": 90 },
+            { "model": "plants/dandelion_2", "y": 180 },
+            { "model": "plants/dandelion_2", "y": 270 },
+            { "model": "plants/dandelion_3" },
+            { "model": "plants/dandelion_3", "y": 90 },
+            { "model": "plants/dandelion_3", "y": 180 },
+            { "model": "plants/dandelion_3", "y": 270 },
+            { "model": "plants/dandelion_4" },
+            { "model": "plants/dandelion_4", "y": 90 },
+            { "model": "plants/dandelion_4", "y": 180 },
+            { "model": "plants/dandelion_4", "y": 270 }
+        ]
+    }
+}

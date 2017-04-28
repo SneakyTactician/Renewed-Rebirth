@@ -1,0 +1,89 @@
+{
+    "__comment": "Created in part with opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "bars_v": "blocks/iron_bars_v",
+        "particle": "blocks/iron_bars_v",
+        "bars_h": "blocks/iron_bars_h"
+    },
+    "elements": [
+        {
+            "from": [7,15.5,0],
+            "to": [9,16.5,7],
+            "faces": {
+                "up": {
+                    "uv": [0.0,0.0,7.0,2.0],
+                    "texture": "#bars_h",
+                    "rotation": 90
+                },
+                "down": {
+                    "uv": [0.0,3.0,7.0,5.0],
+                    "texture": "#bars_h",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [0.0,2.0,7.0,3.0],
+                    "texture": "#bars_h"
+                },
+                "east": {
+                    "uv": [0.0,5.0,7.0,6.0],
+                    "texture": "#bars_h"
+                },
+                "north": {
+                    "uv": [7.0,5.0,9.0,6.0],
+                    "texture": "#bars_h"
+                }
+            }
+        },
+        {
+            "from": [7,-0.5,0],
+            "to": [9,0.5,7],
+            "faces": {
+                "up": {
+                    "uv": [0.0,6.0,7.0,8.0],
+                    "texture": "#bars_h",
+                    "rotation": 90
+                },
+                "down": {
+                    "uv": [0.0,9.0,7.0,11.0],
+                    "texture": "#bars_h",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [0.0,8.0,7.0,9.0],
+                    "texture": "#bars_h"
+                },
+                "east": {
+                    "uv": [0.0,11.0,7.0,12.0],
+                    "texture": "#bars_h"
+                },
+                "north": {
+                    "uv": [7.0,11.0,9.0,12.0],
+                    "texture": "#bars_h"
+                }
+            }
+        },
+        {
+            "from": [7.25,0,2],
+            "to": [8.75,16,3.5],
+            "faces": {
+                "west": {
+                    "uv": [7.5,0.0,9.0,16.0],
+                    "texture": "#bars_v"
+                },
+                "east": {
+                    "uv": [10.5,0.0,12.0,16.0],
+                    "texture": "#bars_v"
+                },
+                "north": {
+                    "uv": [6.0,0.0,7.5,16.0],
+                    "texture": "#bars_v"
+                },
+                "south": {
+                    "uv": [10.5,0.0,9.0,16.0],
+                    "texture": "#bars_v"
+                }
+            }
+        }
+    ]
+}

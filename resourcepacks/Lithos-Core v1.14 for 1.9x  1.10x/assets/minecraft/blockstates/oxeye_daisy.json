@@ -1,0 +1,35 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "plants/daisy_1" },
+            { "model": "plants/daisy_1", "y": 90 },
+            { "model": "plants/daisy_1", "y": 180 },
+            { "model": "plants/daisy_1", "y": 270 },
+            
+            { "model": "plants/daisy_2" },
+            { "model": "plants/daisy_2", "y": 90 },
+            { "model": "plants/daisy_2", "y": 180 },
+            { "model": "plants/daisy_2", "y": 270 },
+            
+            { "model": "plants/daisy_3" },
+            { "model": "plants/daisy_3", "y": 90 },
+            { "model": "plants/daisy_3", "y": 180 },
+            { "model": "plants/daisy_3", "y": 270 },
+            
+            { "model": "plants/daisy_4" },
+            { "model": "plants/daisy_4", "y": 90 },
+            { "model": "plants/daisy_4", "y": 180 },
+            { "model": "plants/daisy_4", "y": 270 },
+            
+            { "model": "plants/daisy_5" },
+            { "model": "plants/daisy_5", "y": 90 },
+            { "model": "plants/daisy_5", "y": 180 },
+            { "model": "plants/daisy_5", "y": 270 },
+            
+            { "model": "plants/daisy_6" },
+            { "model": "plants/daisy_6", "y": 90 },
+            { "model": "plants/daisy_6", "y": 180 },
+            { "model": "plants/daisy_6", "y": 270 }
+        ]
+    }
+}

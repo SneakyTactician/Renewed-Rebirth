@@ -1,0 +1,9 @@
+{
+    "__comment": "This file was created by Eleazzaar for Lithos:Core",
+    "parent": "block/cube_random3",
+    "textures": {
+        "top-bottom": "blocks/cobblestone_mossy_top",
+        "side_a": "blocks/cobblestone_mossy2",
+        "side_b": "blocks/cobblestone_mossy3"
+    }
+}

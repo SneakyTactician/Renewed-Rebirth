@@ -1,0 +1,23 @@
+{
+    "multipart": [
+        {   "when": { "up": "true" },
+        	"apply": [
+            	{ "model": "built/wall_cobble_post" },
+            	{ "model": "built/wall_cobble_post2" },
+            	{ "model": "built/wall_cobble_post3" }
+            ]
+        },
+        {   "when": { "north": "true" },
+            "apply": { "model": "built/wall_cobble_side", "uvlock": true }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "built/wall_cobble_side", "y": 90, "uvlock": true }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "built/wall_cobble_side", "y": 180, "uvlock": true }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "built/wall_cobble_side", "y": 270, "uvlock": true }
+        }
+    ]
+}

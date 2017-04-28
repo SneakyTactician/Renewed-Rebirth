@@ -1,0 +1,11 @@
+{
+    "__comment": "This file was created by Eleazzaar for Lithos:Core",
+    "parent": "block/cube_random_bottom_top",
+    "textures": {
+        "particle": "blocks/dirt",
+        "bottom": "blocks/dirt3",
+        "top": "blocks/mycelium_top3",
+        "side_a": "blocks/mycelium_side3",
+        "side_b": "blocks/mycelium_side4"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "variants": {
+        "facing=north": [
+        					{ "model": "pumpkins/unlit_1" },
+        					{ "model": "pumpkins/unlit_2" },
+        					{ "model": "pumpkins/unlit_3" },
+        					{ "model": "pumpkins/unlit_4" },
+        					{ "model": "pumpkins/unlit_5" },
+        					{ "model": "pumpkins/unlit_6" },
+        					{ "model": "pumpkins/unlit_7" },
+        					{ "model": "pumpkins/unlit_8" },
+        					{ "model": "pumpkins/unlit_9" },
+        					{ "model": "pumpkins/unlit_10" }
+        				],
+        					
+        "facing=south": [
+        					{ "model": "pumpkins/unlit_1", "y": 180 },
+        					{ "model": "pumpkins/unlit_2", "y": 180 },
+        					{ "model": "pumpkins/unlit_3", "y": 180 },
+        					{ "model": "pumpkins/unlit_4", "y": 180 },
+        					{ "model": "pumpkins/unlit_5", "y": 180 },
+        					{ "model": "pumpkins/unlit_6", "y": 180 },
+        					{ "model": "pumpkins/unlit_7", "y": 180 },
+        					{ "model": "pumpkins/unlit_8", "y": 180 },
+        					{ "model": "pumpkins/unlit_9", "y": 180 },
+        					{ "model": "pumpkins/unlit_10", "y": 180 }
+        				],
+        				
+        "facing=west":  [
+        					{ "model": "pumpkins/unlit_1", "y": 270 },
+        					{ "model": "pumpkins/unlit_2", "y": 270 },
+        					{ "model": "pumpkins/unlit_3", "y": 270 },
+        					{ "model": "pumpkins/unlit_4", "y": 270 },
+        					{ "model": "pumpkins/unlit_5", "y": 270 },
+        					{ "model": "pumpkins/unlit_6", "y": 270 },
+        					{ "model": "pumpkins/unlit_7", "y": 270 },
+        					{ "model": "pumpkins/unlit_8", "y": 270 },
+        					{ "model": "pumpkins/unlit_9", "y": 270 },
+        					{ "model": "pumpkins/unlit_10", "y": 270 }
+        				],
+        				
+        "facing=east":  [
+        					{ "model": "pumpkins/unlit_1", "y": 90 },
+        					{ "model": "pumpkins/unlit_2", "y": 90 },
+        					{ "model": "pumpkins/unlit_3", "y": 90 },
+        					{ "model": "pumpkins/unlit_4", "y": 90 },
+        					{ "model": "pumpkins/unlit_5", "y": 90 },
+        					{ "model": "pumpkins/unlit_6", "y": 90 },
+        					{ "model": "pumpkins/unlit_7", "y": 90 },
+        					{ "model": "pumpkins/unlit_8", "y": 90 },
+        					{ "model": "pumpkins/unlit_9", "y": 90 },
+        					{ "model": "pumpkins/unlit_10", "y": 90 }
+        				]
+    }
+}

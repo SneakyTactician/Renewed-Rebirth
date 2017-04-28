@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "normal": [
+        	{ "model": "plants/dead_bush_1" },
+        	{ "model": "plants/dead_bush_1", "y": 90 },
+        	{ "model": "plants/dead_bush_2" },
+        	{ "model": "plants/dead_bush_2", "y": 90 },
+        	{ "model": "plants/dead_bush_3" },
+        	{ "model": "plants/dead_bush_3", "y": 90 },
+        	{ "model": "plants/dead_bush_4" },
+        	{ "model": "plants/dead_bush_4", "y": 90 }
+        ]
+    }
+}

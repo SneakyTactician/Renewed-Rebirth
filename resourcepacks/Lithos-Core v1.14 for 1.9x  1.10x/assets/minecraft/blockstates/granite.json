@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [ 
+            { "model": "stone/granite", "weight": 1 },
+            { "model": "stone/granite2", "weight": 1 },
+            { "model": "stone/granite3", "weight": 1 }
+        ]
+    }
+}

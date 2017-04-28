@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "half=bottom,variant=default": [
+        	{ "model": "slabs/purpur_half_1" },
+        	{ "model": "slabs/purpur_half_2" },
+        	{ "model": "slabs/purpur_half_3" }
+        	],
+        	
+        "half=top,variant=default": [
+        	{ "model": "slabs/purpur_upper_1" },
+        	{ "model": "slabs/purpur_upper_2" },
+        	{ "model": "slabs/purpur_upper_3" }
+        	]
+    }
+}

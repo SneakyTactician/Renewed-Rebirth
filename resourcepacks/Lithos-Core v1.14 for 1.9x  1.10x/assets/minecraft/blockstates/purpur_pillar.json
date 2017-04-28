@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "axis=y":  [
+        	{ "model": "end/purpur_pillar_top_1", "weight": 1      },
+        	{ "model": "end/purpur_pillar_top_2", "weight": 1      },
+        	{ "model": "end/purpur_pillar_top_3", "weight": 1      }
+        	],
+        "axis=z":   [
+        	{ "model": "end/purpur_pillar_side_z1", "weight": 1       },
+        	{ "model": "end/purpur_pillar_side_z2", "weight": 1       },
+        	{ "model": "end/purpur_pillar_side_z3", "weight": 1       }
+        	],
+        "axis=x":   [
+        	{ "model": "end/purpur_pillar_side_x1", "weight": 1    },
+        	{ "model": "end/purpur_pillar_side_x2", "weight": 1    },
+        	{ "model": "end/purpur_pillar_side_x3", "weight": 1    }
+        	]
+    }
+}

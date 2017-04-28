@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+        	{ "model": "end/end_bricks" },
+        	{ "model": "end/end_bricks2" },
+        	{ "model": "end/end_bricks3" }
+        ]
+    }
+}

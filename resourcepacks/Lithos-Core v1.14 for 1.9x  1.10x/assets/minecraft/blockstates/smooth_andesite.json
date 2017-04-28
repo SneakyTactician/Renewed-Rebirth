@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [ 
+            { "model": "stone/andesite_smooth", "weight": 1 },
+            { "model": "stone/andesite_smooth2", "weight": 1 },
+            { "model": "stone/andesite_smooth3", "weight": 1 }
+        ]
+    }
+}

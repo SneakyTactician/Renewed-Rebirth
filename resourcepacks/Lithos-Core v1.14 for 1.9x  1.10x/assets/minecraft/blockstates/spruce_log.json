@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "axis=y":  [
+        	{ "model": "wood/spruce_log_1", "weight": 1      },
+        	{ "model": "wood/spruce_log_2", "weight": 1      },
+        	{ "model": "wood/spruce_log_3", "weight": 1      }
+        	],
+        "axis=z":   [
+        	{ "model": "wood/spruce_log_side_z1", "weight": 1       },
+        	{ "model": "wood/spruce_log_side_z2", "weight": 1       },
+        	{ "model": "wood/spruce_log_side_z3", "weight": 1       }
+        	],
+        "axis=x":   [
+        	{ "model": "wood/spruce_log_side_x1", "weight": 1    },
+        	{ "model": "wood/spruce_log_side_x2", "weight": 1    },
+        	{ "model": "wood/spruce_log_side_x3", "weight": 1    }
+        	],
+        "axis=none": [
+        	{ "model": "wood/spruce_bark_1", "weight": 1       },
+        	{ "model": "wood/spruce_bark_2", "weight": 1       },
+        	{ "model": "wood/spruce_bark_3", "weight": 1       }
+        	]
+    }
+}

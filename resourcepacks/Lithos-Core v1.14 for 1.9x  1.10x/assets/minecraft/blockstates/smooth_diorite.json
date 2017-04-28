@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [ 
+            { "model": "stone/diorite_smooth", "weight": 1 },
+            { "model": "stone/diorite_smooth2", "weight": 1 },
+            { "model": "stone/diorite_smooth3", "weight": 1 }
+        ]
+    }
+}

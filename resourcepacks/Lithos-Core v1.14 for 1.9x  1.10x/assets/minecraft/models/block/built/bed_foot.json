@@ -1,0 +1,45 @@
+{
+"__createdwith":"opl's Model Maker",
+"ambientocclusion":true,
+"textures":{
+"particle":"blocks/bed_feet_top",
+"side":"blocks/bed_feet_side",
+"bottom":"blocks/planks_oak",
+"end":"blocks/bed_feet_end",
+"top":"blocks/bed_feet_top"},
+
+"elements":[
+{
+"from":[0,3,0],
+"to":[16,9,16],
+"faces":{
+    "up":    { "uv": [  0, 16, 16,  0 ], "texture": "#top", "rotation": 90 },
+    "west":  { "uv": [  0,  7, 16, 13 ], "texture": "#side" },
+    "east":  { "uv": [ 16,  7,  0, 13 ], "texture": "#side" },
+    "north": {"uv":  [  0,  7, 16, 13 ],"texture":  "#end"}
+    }},
+
+{"from":[0,3,0],"to":[16,3,16],
+"faces":{
+    "down":{"uv":[0,0,16,16],"texture":"#bottom"}}},
+
+{"from":[0,0,0],"to":[2.5,3,2.5],
+"faces":{
+    "down":{"uv":[13.5,13.5,16,16],"texture":"#end"},
+    "west":{"uv":[0,13,2.5,16],"texture":"#side"},
+    "east":{"uv":[ 13.5,13,16,16],"texture":"#end"},
+    "north":{"uv":[13.5,13,16,16],"texture":"#end"},
+    "south":{"uv":[0,13,2.5,16],"texture":"#end"}
+    }},
+
+{"from":[13.5,0,0],"to":[16,3,2.5],
+"faces":{
+    "down":{"uv":[0,13.5,2.5,16],"texture":"#end"},
+    "west":{"uv":[13.5,13,16,16],"texture":"#end"},
+    "east":{"uv":[2.5,13,0,16],"texture":"#side"},
+    "north":{"uv":[0,13,2.5,16],"texture":"#end"},
+    "south":{"uv":[0,13,2.5,16],"texture":"#end"}
+    }
+    }
+    ]
+}

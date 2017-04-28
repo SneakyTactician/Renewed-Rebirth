@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_random_bottom_top",
+    "textures": {
+        "top": "blocks/nether_wart_block3",
+        "bottom": "blocks/nether_wart_block3",
+        "side_a": "blocks/nether_wart_block",
+        "side_b": "blocks/nether_wart_block2"
+    }
+}

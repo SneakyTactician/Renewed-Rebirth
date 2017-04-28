@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "sand/red_sand_1" },
+            { "model": "sand/red_sand_1", "y": 90 },
+            { "model": "sand/red_sand_1", "y": 180 },
+            { "model": "sand/red_sand_1", "y": 270 },
+            { "model": "sand/red_sand_2" },
+            { "model": "sand/red_sand_2", "y": 90 },
+            { "model": "sand/red_sand_2", "y": 180 },
+            { "model": "sand/red_sand_2", "y": 270 },
+            { "model": "sand/red_sand_3" },
+            { "model": "sand/red_sand_3", "y": 90 },
+            { "model": "sand/red_sand_3", "y": 180 },
+            { "model": "sand/red_sand_3", "y": 270 }
+        ]
+    }
+}

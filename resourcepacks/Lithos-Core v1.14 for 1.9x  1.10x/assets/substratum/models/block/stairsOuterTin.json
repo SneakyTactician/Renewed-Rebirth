@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures":
+  {
+    "bottom": "lithos_mod:blocks/block_tin",
+    "top": "lithos_mod:blocks/block_tin",
+    "side": "lithos_mod:blocks/block_tin"
+  }
+}

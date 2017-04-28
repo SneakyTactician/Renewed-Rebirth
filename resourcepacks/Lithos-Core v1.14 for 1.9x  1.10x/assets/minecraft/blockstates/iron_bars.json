@@ -1,0 +1,33 @@
+{
+    "multipart": [
+        {   "apply": [
+        	{ "model": "built/iron_bars_post" },
+        	{ "model": "built/iron_bars_post", "y": 90 },
+        	{ "model": "built/iron_bars_post", "y": 180 },
+        	{ "model": "built/iron_bars_post", "y": 270 }
+        	]	
+        },
+        {   "when": { "OR" :[
+        		{ "north": true },
+        		{ "south": true },
+        		{ "east": true },
+        		{ "west": true }
+        		]
+        	},
+            "apply": { "model": "built/iron_bars_post_ends" }
+        },
+        
+        {   "when": { "north": true },
+            "apply": { "model": "built/iron_bars_side" }
+        },
+        {   "when": { "east": true },
+            "apply": { "model": "built/iron_bars_side", "y": 90 }
+        },
+        {   "when": { "south": true },
+            "apply": { "model": "built/iron_bars_side_alt" }
+        },
+        {   "when": { "west": true },
+            "apply": { "model": "built/iron_bars_side_alt", "y": 90 }
+        }
+    ]
+}

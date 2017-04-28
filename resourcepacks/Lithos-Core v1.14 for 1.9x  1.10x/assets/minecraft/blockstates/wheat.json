@@ -1,0 +1,69 @@
+{
+    "variants": {
+        "age=0": [
+        	{ "model": "plants/wheat_stage0" },
+        	{ "model": "plants/wheat_stage0", "y": 90 },
+            { "model": "plants/wheat_stage0", "y": 180 },
+            { "model": "plants/wheat_stage0", "y": 270 }
+            
+        	],
+        	
+        "age=1": [
+        	{ "model": "plants/wheat_stage1" },
+        	{ "model": "plants/wheat_stage1", "y": 90 },
+            { "model": "plants/wheat_stage1", "y": 180 },
+            { "model": "plants/wheat_stage1", "y": 270 }
+            
+        	],
+        	
+        "age=2": [
+        	{ "model": "plants/wheat_stage2" },
+        	{ "model": "plants/wheat_stage2", "y": 90 },
+            { "model": "plants/wheat_stage2", "y": 180 },
+            { "model": "plants/wheat_stage2", "y": 270 }
+            
+        	],
+        	
+        "age=3": [
+        	{ "model": "plants/wheat_stage3" },
+        	{ "model": "plants/wheat_stage3", "y": 90 },
+            { "model": "plants/wheat_stage3", "y": 180 },
+            { "model": "plants/wheat_stage3", "y": 270 }
+            
+        	],
+        	
+        "age=4": [
+        	{ "model": "plants/wheat_stage4" },
+        	{ "model": "plants/wheat_stage4", "y": 90 },
+            { "model": "plants/wheat_stage4", "y": 180 },
+            { "model": "plants/wheat_stage4", "y": 270 }
+            
+        	],
+        	
+        "age=5": [
+        	{ "model": "plants/wheat_stage5" },
+        	{ "model": "plants/wheat_stage5", "y": 90 },
+            { "model": "plants/wheat_stage5", "y": 180 },
+            { "model": "plants/wheat_stage5", "y": 270 }
+            
+        	],
+        	
+        "age=6": [
+        	{ "model": "plants/wheat_stage6" },
+        	{ "model": "plants/wheat_stage6", "y": 90 },
+            { "model": "plants/wheat_stage6", "y": 180 },
+            { "model": "plants/wheat_stage6", "y": 270 }
+            
+        	],
+        	
+        "age=7": [
+        	{ "model": "plants/wheat_stage7" },
+        	{ "model": "plants/wheat_stage7", "y": 90 },
+            { "model": "plants/wheat_stage7", "y": 180 },
+            { "model": "plants/wheat_stage7", "y": 270 }
+            
+        	]
+        	
+    }
+}
+

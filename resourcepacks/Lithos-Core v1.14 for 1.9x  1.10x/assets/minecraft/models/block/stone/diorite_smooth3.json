@@ -1,0 +1,9 @@
+{
+    "__comment": "This file was created by Eleazzaar for Lithos:Core",
+    "parent": "block/cube_random3",
+    "textures": {
+        "top-bottom": "blocks/stone_diorite_smooth2",
+        "side_a": "blocks/stone_diorite_smooth3",
+        "side_b": "blocks/stone_diorite_smooth"
+    }
+}

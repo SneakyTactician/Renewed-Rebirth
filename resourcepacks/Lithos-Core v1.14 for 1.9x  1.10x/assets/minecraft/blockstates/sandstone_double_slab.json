@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+        	{ "model": "slabs/sandstone_double_1" },
+        	{ "model": "slabs/sandstone_double_2" },
+        	{ "model": "slabs/sandstone_double_3" }
+        	],
+        "all":    { "model": "slabs/sandstone_top" }
+    }
+}
