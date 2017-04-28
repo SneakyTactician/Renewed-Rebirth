@@ -1,7 +1,11 @@
 # Configuration file
 
 cache {
-    S:digest=683a232b14de41b5c38b9e9039affc88
+<<<<<<< HEAD
+    S:digest=45ccf9b614d3bbdbfc009f86560b161b
+=======
+    S:digest=21711999f3ac86225f68e90472ba7eaa
+>>>>>>> 3c6b349373b6fb9c8afcbc92bceb3d26024a272d
 
     # Caching can save processing time, if there are a lot of items. [default: true]
     B:enableCache=true

@@ -11,19 +11,13 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:3
+difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:fast
-<<<<<<< HEAD
-resourcePacks:["Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
-incompatibleResourcePacks:[]
-lastServer:
-=======
 resourcePacks:["The End Resource Pack","Modern HD","Faithful Mods 1.11.2-rv3","[1.10] R3D CRAFT 512x (v0.3.0)","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
 incompatibleResourcePacks:["The End Resource Pack","Faithful Mods 1.11.2-rv3"]
 lastServer:192.168.0.11
->>>>>>> 3c6b349373b6fb9c8afcbc92bceb3d26024a272d
 lang:en_US
 chatVisibility:0
 chatColors:true
@@ -98,7 +92,6 @@ key_cfg.keybind.LightLevel:38
 key_cfg.keybind.ChunkBorders:67
 key_cfg.keybind.Volume:47
 key_psimisc.keybind:46
-key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
 key_quark.emote.yes:0
@@ -109,6 +102,7 @@ key_quark.emote.point:0
 key_quark.emote.shrug:0
 key_quark.emote.facepalm:0
 key_quark.emote.headbang:0
+key_quark.keybind.toggleAutojump:48
 key_key.davincis.up:45
 key_key.davincis.down:44
 key_key.davincis.brake:46
