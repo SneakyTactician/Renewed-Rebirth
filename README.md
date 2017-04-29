@@ -204,6 +204,121 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Infernal Mods]
 
+[Inventory Sorter]
+
+[Inventory Tweaks]
+
+[Iron Backpacks]
+
+[Iron Chest]
+
+[Just Enough Items]
+
+[JEI Bees]
+
+[Journey Map]
+
+[Just Enough Resources]
+
+[Levels]
+
+[Lycanites Mobs Complete]
+
+[Mantle]
+
+[Mcjty lib]
+
+[MC Multipart]
+
+[More Shears]
+
+[Morpheus]
+
+[Morph-o-Tool]
+
+[Mouse Tweaks]
+
+[Moving World]
+
+[Natura]
+
+[Neat]
+
+[Nether Core]
+
+[Nether Portal Fix]
+
+[No Sleeping Allowed] by SneakyTactician
+
+[Not Enough Items]
+
+[Om Lib]
+
+[Open Computers]
+
+[Open Modular Turrets]
+
+[OptiFine]
+
+[Ore Dictionary Converter]
+
+[Pam's HarvestCraft]
+
+[Platforms]
+
+[Psi]
+
+[Quantum Storage]
+
+[Quark]
+
+[Railcraft]
+
+[Reborn Core]
+
+[Redstone Paste]
+
+[Roguelike Dungeons]
+
+[Rough Mobs]
+
+[Shadow MC]
+
+[Shetiphian Core]
+
+[Simple Corn]
+
+[Simple Generators]
+
+[Simple Ore Gen]
+
+[Solar Flux Reborn]
+
+[Sonar Core]
+
+[Sound Filters]
+
+[Special AI]
+
+[Steve's Carts]
+
+[Steve's Factory Manager]
+
+[Storage Drawers]
+
+[Streams]
+
+[Super Circuit Maker]
+
+[Surge]
+
+[Tinker's Construct]
+
+[Teleporters]
+
+[Tesla]
+
+[Tesla Coils]
 # Shaders
 
 
