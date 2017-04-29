@@ -110,6 +110,100 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Craft Tweaker]
 
+[Cyclops Core]
+
+[Dark Utilities]
+
+[Davinci's Vessels]
+
+[Decocraft]
+
+[Deep Resonance]
+
+[Default Options]
+
+[Dimensional Cake]
+
+[Doomlike Dungeons]
+
+[Draconic Evolution]
+
+[Drawers Bits]
+
+[Dynamic Surroundings]
+
+[Elec Core]
+
+[Elevator Mod]
+
+[Enchanting Plus]
+
+[Ender Core]
+
+[Ender IO]
+
+[Ender Utilities]
+
+[Energy Arsenal]
+
+[Engineer's Workshop]
+
+[Environmental Tech]
+
+[Etlunar]
+
+[Extra Bit Manipulation]
+
+[Extra Utilities 2]
+
+[Extreme Reactors]
+
+[Fancy Fluid Storage]
+
+[Fancy Block Particles]
+
+[Farseek]
+
+[Fast Leave Decay]
+
+[Floodlights]
+
+[Flux Networks]
+
+[Foam Fix]
+
+[Forestry]
+
+[FTB Lib]
+
+[FTB Utilities]
+
+[Fullscreen Windowed]
+
+[Funnels]
+
+[Gendustry]
+
+[Generators]
+
+[Grave Stone]
+
+[Gravitation Suite]
+
+[Hammer Core]
+
+[Hardcore Darkness]
+
+[Hardcore Wither]
+
+[Headcrumbs]
+
+[Help Fixer]
+
+[Industrialcraft 2]
+
+[Infernal Mods]
+
 # Shaders
 
 
