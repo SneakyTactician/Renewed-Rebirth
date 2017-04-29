@@ -1,8 +1,5 @@
-#Sat Apr 01 19:27:59 CDT 2017
+#Sat Apr 29 14:32:10 CDT 2017
 shaderPack=Lagless-Shaders-Lite-1.10.2.zip
-<<<<<<<=HEAD
-=\=\=\=\=\=\=
->>>>>>>=origin/MessedWithShaders
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true

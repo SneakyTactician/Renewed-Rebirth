@@ -1,5 +1,5 @@
 
-11246 nodes in total
+11253 nodes in total
 block.tap: ALL
 block.wrench: ALL
 enderio.gui.gui_id_alloy_smelter: ALL
@@ -2922,6 +2922,8 @@ ftbu.claims.block.edit.wtfcore.stone5decoanim: OP
 ftbu.claims.block.edit.wtfcore.stone5decostatic: OP
 ftbu.claims.block.edit.wtfcore.stone5speleothem: OP
 ftbu.claims.block.edit.wtfcore.stone5speleothemfrozen: OP
+ftbu.claims.block.edit.wtfgameplay.torch_on: OP
+ftbu.claims.block.edit.wtfgameplay.wcic_table: OP
 ftbu.claims.block.interact.actuallyadditions.blockatomicreconstructor: OP
 ftbu.claims.block.interact.actuallyadditions.blockbioreactor: OP
 ftbu.claims.block.interact.actuallyadditions.blockblacklotus: OP
@@ -5752,6 +5754,8 @@ ftbu.claims.block.interact.wtfcore.stone5decoanim: OP
 ftbu.claims.block.interact.wtfcore.stone5decostatic: OP
 ftbu.claims.block.interact.wtfcore.stone5speleothem: OP
 ftbu.claims.block.interact.wtfcore.stone5speleothemfrozen: OP
+ftbu.claims.block.interact.wtfgameplay.torch_on: OP
+ftbu.claims.block.interact.wtfgameplay.wcic_table: OP
 ftbu.claims.item.actuallyadditions.blockatomicreconstructor: ALL
 ftbu.claims.item.actuallyadditions.blockbioreactor: ALL
 ftbu.claims.item.actuallyadditions.blockblacklotus: ALL
@@ -11237,6 +11241,9 @@ ftbu.claims.item.wtfcore.stone5decoanim: ALL
 ftbu.claims.item.wtfcore.stone5decostatic: ALL
 ftbu.claims.item.wtfcore.stone5speleothem: ALL
 ftbu.claims.item.wtfcore.stone5speleothemfrozen: ALL
+ftbu.claims.item.wtfgameplay.home_scroll: ALL
+ftbu.claims.item.wtfgameplay.torch_on: ALL
+ftbu.claims.item.wtfgameplay.wcic_table: ALL
 ftbu.claims.item.zerocore.debugtool: ALL
 ftbu.claims.modify.others: OP
 ftbu.claims.modify.self: ALL

@@ -5,19 +5,19 @@ fov:0.0
 gamma:1.0
 saturation:0.0
 renderDistance:8
-guiScale:3
-particles:2
+guiScale:0
+particles:0
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
 difficulty:2
 fancyGraphics:false
-ao:1
+ao:0
 renderClouds:fast
-resourcePacks:["The End Resource Pack","Modern HD","Faithful Mods 1.11.2-rv3","[1.10] R3D CRAFT 512x (v0.3.0)","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
-incompatibleResourcePacks:["The End Resource Pack","Faithful Mods 1.11.2-rv3"]
-lastServer:192.168.0.11
+resourcePacks:["Sn0wZ0ne2.0.5-64x_All_versions","Soartex_Fanver"]
+incompatibleResourcePacks:[]
+lastServer:
 lang:en_US
 chatVisibility:0
 chatColors:true
@@ -25,8 +25,8 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
-enableVsync:false
+fullscreen:false
+enableVsync:true
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -39,8 +39,8 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-showInventoryAchievementHint:false
-mipmapLevels:0
+showInventoryAchievementHint:true
+mipmapLevels:4
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
@@ -48,9 +48,9 @@ entityShadows:true
 mainHand:right
 attackIndicator:1
 showSubtitles:false
-realmsNotifications:false
+realmsNotifications:true
 enableWeakAttacks:false
-autoJump:false
+autoJump:true
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -92,6 +92,7 @@ key_cfg.keybind.LightLevel:38
 key_cfg.keybind.ChunkBorders:67
 key_cfg.keybind.Volume:47
 key_psimisc.keybind:46
+key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
 key_quark.emote.yes:0
@@ -102,7 +103,6 @@ key_quark.emote.point:0
 key_quark.emote.shrug:0
 key_quark.emote.facepalm:0
 key_quark.emote.headbang:0
-key_quark.keybind.toggleAutojump:48
 key_key.davincis.up:45
 key_key.davincis.down:44
 key_key.davincis.brake:46
@@ -130,7 +130,7 @@ key_Toggle Freeze Effect:19
 key_Enable/Disable:0
 key_Kill Particles:0
 key_key.ftbu.guide:0
-key_key.ftbu.warp:157
+key_key.ftbu.warp:0
 key_Gravi Fly Key:33
 key_Open Backpack:46
 key_Equip/Unequip Backpack:47
