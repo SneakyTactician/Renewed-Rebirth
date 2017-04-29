@@ -84,7 +84,7 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Chisels and Bits](https://mods.curse.com/mc-mods/minecraft/231095-chisels-bits)
 
-[Client Tweaks](https://mods.curse.com/mc-mods/minecraft/251407-client-tweaks)
+([Client Tweaks](https://mods.curse.com/mc-mods/minecraft/251407-client-tweaks)
 
 [Clumps](https://mods.curse.com/mc-mods/minecraft/256717-clumps)
 
@@ -102,19 +102,19 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Compat Layer](https://mods.curse.com/mc-mods/minecraft/253729-compatlayer)
 
-[Controlling]
+[Controlling](https://mods.curse.com/mc-mods/minecraft/250398-controlling)
 
-[Cooking For Blockheads]
+[Cooking For Blockheads](https://mods.curse.com/mc-mods/minecraft/231484-cooking-for-blockheads)
 
-[Crafting Tweaks]
+[Crafting Tweaks](https://mods.curse.com/mc-mods/minecraft/233071-crafting-tweaks)
 
-[Craft Tweaker]
+[Craft Tweaker](https://mods.curse.com/mc-mods/minecraft/239197-crafttweaker)
 
-[Cyclops Core]
+[Cyclops Core](https://mods.curse.com/mc-mods/minecraft/232758-cyclops-core)
 
-[Dark Utilities]
+[Dark Utilities](https://mods.curse.com/mc-mods/minecraft/242195-dark-utilities)
 
-[Davinci's Vessels]
+[Davinci's Vessels](https://mods.curse.com/mc-mods/minecraft/228029-davincis-vessels)
 
 [Decocraft]
 
