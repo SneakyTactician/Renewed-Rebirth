@@ -133,41 +133,41 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Elec Core](https://mods.curse.com/mc-mods/minecraft/227391-eleccore-rendering-library)
 
-[Elevator Mod]
+[Elevator Mod](https://mods.curse.com/mc-mods/minecraft/250832-openblocks-elevator)
 
-[Enchanting Plus]
+[Enchanting Plus](https://mods.curse.com/mc-mods/minecraft/enchanting-plus)
 
-[Ender Core]
+[Ender Core](https://mods.curse.com/mc-mods/minecraft/231868-endercore)
 
-[Ender IO]
+[Ender IO](http://enderio.com/)
 
-[Ender Utilities]
+[Ender Utilities](https://mods.curse.com/mc-mods/minecraft/224320-ender-utilities)
 
-[Energy Arsenal]
+[Energy Arsenal](https://mods.curse.com/mc-mods/minecraft/247634-tesla-arsenal)
 
-[Engineer's Workshop]
+[Engineer's Workshop](https://mods.curse.com/mc-mods/minecraft/254916-engineers-workshop)
 
-[Environmental Tech]
+[Environmental Tech](https://mods.curse.com/mc-mods/minecraft/245453-environmental-tech)
 
-[Etlunar]
+[Etlunar](https://mods.curse.com/mc-mods/minecraft/253565-et-lunar-environmental-tech-addon)
 
-[Extra Bit Manipulation]
+[Extra Bit Manipulation](https://mods.curse.com/mc-mods/minecraft/240959-extra-bit-manipulation)
 
-[Extra Utilities 2]
+[Extra Utilities 2](https://mods.curse.com/mc-mods/minecraft/225561-extra-utilities)
 
-[Extreme Reactors]
+[Extreme Reactors](https://mods.curse.com/mc-mods/minecraft/250277-extreme-reactors)
 
-[Fancy Fluid Storage]
+[Fancy Fluid Storage](https://mods.curse.com/mc-mods/minecraft/232683-ffs-fancy-fluid-storage)
 
-[Fancy Block Particles]
+[Fancy Block Particles](https://mods.curse.com/mc-mods/minecraft/254441-fancy-block-particles)
 
-[Farseek]
+[Farseek](https://mods.curse.com/mc-mods/minecraft/229708-farseek)
 
-[Fast Leave Decay]
+[Fast Leave Decay](https://mods.curse.com/mc-mods/minecraft/230976-fast-leaf-decay)
 
-[Floodlights]
+[Floodlights](https://mods.curse.com/mc-mods/minecraft/224728-floodlights#t1:description)
 
-[Flux Networks]
+[Flux Networks](https://mods.curse.com/mc-mods/minecraft/248020-flux-networks)
 
 [Foam Fix]
 
