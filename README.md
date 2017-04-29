@@ -38,7 +38,7 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Akashic Tome](https://mods.curse.com/mc-mods/minecraft/250577-akashic-tome)
 
-[Apple Shields](https://mods.curse.com/mc-mods/minecraft/247031-apple-shields-mod)
+https://mods.curse.com/mc-mods/minecraft/228525-bookshelf[Apple Shields](https://mods.curse.com/mc-mods/minecraft/247031-apple-shields-mod)
 
 [Apple Skin](https://mods.curse.com/mc-mods/minecraft/248787-appleskin)
 
@@ -48,23 +48,23 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Base](https://mods.curse.com/mc-mods/minecraft/246996-b-a-s-e#t1:description)
 
-[Baubles]
+[Baubles](https://mods.curse.com/mc-mods/minecraft/227083-baubles)
 
-[Bdlib]
+[Bdlib](https://mods.curse.com/mc-mods/minecraft/bdlib)
 
-[Bed Bugs]
+[Bed Bugs](https://mods.curse.com/mc-mods/minecraft/254508-bed-bugs)
 
-[Better Builder's Wand]
+[Better Builder's Wand](https://mods.curse.com/mc-mods/minecraft/238403-better-builders-wands)
 
-[Better Foliage]
+[Better Foliage](https://mods.curse.com/mc-mods/minecraft/228529-better-foliage)
 
-[Better FPS]
+[Better FPS](https://mods.curse.com/mc-mods/minecraft/229876-betterfps)
 
-[Biomes O' Plenty]
+[Biomes O' Plenty](https://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty)
 
-[Bloodmoon]
+[Bloodmoon](https://mods.curse.com/mc-mods/minecraft/226321-bloodmoon#t1:description)
 
-[Bookshelf]
+[Bookshelf](https://mods.curse.com/mc-mods/minecraft/228525-bookshelf)
 
 [Botnia]
 
