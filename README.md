@@ -11,6 +11,7 @@ AT launcher compatible.
 -A soundpack
 -An awesome collection of mods
 
+
 # Disclaimer
 
 This modpack might not run on your computer right out of the box. If it doesn't, I recommend tweaking your settings in the following order:
@@ -21,6 +22,7 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 4. Remove mods
 5. Get a better computer
 
+
 # Mods
 
 [EJML](https://github.com/lessthanoptimal/ejml)
@@ -28,6 +30,7 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 [Fence Overhaul](https://mods.curse.com/mc-mods/minecraft/246222-fence-overhaul)
 
 [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions)
+
 
 [Actually Computers](https://mods.curse.com/mc-mods/minecraft/253005-actuallycomputers)
 
@@ -76,6 +79,37 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 [Chest Transporter]
 
 [Chicken Chunks]
+
+[Chisel]
+
+[Chisels and Bits]
+
+[Client Tweaks]
+
+[Clumps]
+
+[Code Chicken Core]
+
+[Code Chicken Lib]
+
+[CoFHCore]
+
+[Colossal Chests]
+
+[Common Capabilities]
+
+[Compact Solars]
+
+[Compat Layer]
+
+[Controlling]
+
+[Cooking For Blockheads]
+
+[Crafting Tweaks]
+
+[Craft Tweaker]
+
 # Shaders
 
 
