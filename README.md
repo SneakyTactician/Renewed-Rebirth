@@ -31,7 +31,6 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions)
 
-
 [Actually Computers](https://mods.curse.com/mc-mods/minecraft/253005-actuallycomputers)
 
 [Advanced Solar Panels](https://mods.curse.com/mc-mods/minecraft/252714-advanced-solar-panels)
@@ -84,7 +83,7 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Chisels and Bits](https://mods.curse.com/mc-mods/minecraft/231095-chisels-bits)
 
-([Client Tweaks](https://mods.curse.com/mc-mods/minecraft/251407-client-tweaks)
+[Client Tweaks](https://mods.curse.com/mc-mods/minecraft/251407-client-tweaks)
 
 [Clumps](https://mods.curse.com/mc-mods/minecraft/256717-clumps)
 
@@ -116,23 +115,23 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Davinci's Vessels](https://mods.curse.com/mc-mods/minecraft/228029-davincis-vessels)
 
-[Decocraft]
+[Decocraft](https://mods.curse.com/mc-mods/minecraft/decocraft2)
 
-[Deep Resonance]
+[Deep Resonance](https://mods.curse.com/mc-mods/minecraft/233398-deep-resonance)
 
-[Default Options]
+[Default Options](https://mods.curse.com/mc-mods/minecraft/232131-default-options)
 
-[Dimensional Cake]
+[Dimensional Cake](https://mods.curse.com/mc-mods/minecraft/236953-dimensional-cake)
 
-[Doomlike Dungeons]
+[Doomlike Dungeons](https://mods.curse.com/mc-mods/minecraft/project-74246)
 
-[Draconic Evolution]
+[Draconic Evolution](https://mods.curse.com/mc-mods/minecraft/223565-draconic-evolution)
 
-[Drawers Bits]
+[Drawers & Bits](https://mods.curse.com/mc-mods/minecraft/247712-drawers-bits)
 
-[Dynamic Surroundings]
+[Dynamic Surroundings](https://mods.curse.com/mc-mods/minecraft/238891-dynamic-surroundings)
 
-[Elec Core]
+[Elec Core](https://mods.curse.com/mc-mods/minecraft/227391-eleccore-rendering-library)
 
 [Elevator Mod]
 
