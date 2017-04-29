@@ -36,17 +36,17 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Advanced Solar Panels](https://mods.curse.com/mc-mods/minecraft/252714-advanced-solar-panels)
 
-[Akashic Tome]
+[Akashic Tome](https://mods.curse.com/mc-mods/minecraft/250577-akashic-tome)
 
-[Apple Shields]
+[Apple Shields](https://mods.curse.com/mc-mods/minecraft/247031-apple-shields-mod)
 
-[Apple Skin]
+[Apple Skin](https://mods.curse.com/mc-mods/minecraft/248787-appleskin)
 
-[Applied Energistics 2]
+[Applied Energistics 2](https://mods.curse.com/mc-mods/minecraft/223794-applied-energistics-2)
 
-[Auto Reg Lib]
+[Auto Reg Lib](https://mods.curse.com/mc-mods/minecraft/250363-autoreglib)
 
-[Base]
+[Base](https://mods.curse.com/mc-mods/minecraft/246996-b-a-s-e#t1:description)
 
 [Baubles]
 
