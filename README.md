@@ -38,7 +38,7 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Akashic Tome](https://mods.curse.com/mc-mods/minecraft/250577-akashic-tome)
 
-https://mods.curse.com/mc-mods/minecraft/228525-bookshelf[Apple Shields](https://mods.curse.com/mc-mods/minecraft/247031-apple-shields-mod)
+[Apple Shields](https://mods.curse.com/mc-mods/minecraft/247031-apple-shields-mod)
 
 [Apple Skin](https://mods.curse.com/mc-mods/minecraft/248787-appleskin)
 
@@ -66,17 +66,17 @@ https://mods.curse.com/mc-mods/minecraft/228525-bookshelf[Apple Shields](https:/
 
 [Bookshelf](https://mods.curse.com/mc-mods/minecraft/228525-bookshelf)
 
-[Botnia]
+[Botnia](https://mods.curse.com/mc-mods/minecraft/225643-botania)
 
-[Brandon's Core]
+[Brandon's Core](https://mods.curse.com/mc-mods/minecraft/231382-brandons-core)
 
-[Calculator]
+[Calculator](https://mods.curse.com/mc-mods/minecraft/225104-calculator)
 
-[Ceramics]
+[Ceramics](https://mods.curse.com/mc-mods/minecraft/250617-ceramics)
 
-[Chameleon]
+[Chameleon](https://mods.curse.com/mc-mods/minecraft/230497-chameleon)
 
-[Chest Transporter]
+[Chest Transporter](https://mods.curse.com/mc-mods/minecraft/chest-transporter)
 
 [Chicken Chunks]
 
