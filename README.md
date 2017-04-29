@@ -319,6 +319,43 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 [Tesla]
 
 [Tesla Coils]
+
+[The Beneath]
+
+[Thermal Expansion]
+
+[Thermal Foundation]
+
+[Thermal Smeltry]
+
+[Tinker IO]
+
+[Tinkers' Addons]
+
+[Tinker Tool Leveling]
+
+[Torchmaster]
+
+[Translocators]
+
+[Uni Dict]
+
+[Valkyrie Lib]
+
+[Waila]
+
+[Waila Harvestability]
+
+[Wanion Lib]
+
+[Wawla]
+
+[WTF Core]
+
+[WTF World Gen]
+
+[Zero Core]
+
 # Shaders
 
 
