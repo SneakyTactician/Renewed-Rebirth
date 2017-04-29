@@ -82,25 +82,25 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Chisel](https://github.com/Chisel-Team/Chisel)
 
-[Chisels and Bits]
+[Chisels and Bits](https://mods.curse.com/mc-mods/minecraft/231095-chisels-bits)
 
-[Client Tweaks]
+[Client Tweaks](https://mods.curse.com/mc-mods/minecraft/251407-client-tweaks)
 
-[Clumps]
+[Clumps](https://mods.curse.com/mc-mods/minecraft/256717-clumps)
 
-[Code Chicken Core]
+[Code Chicken Core](https://mods.curse.com/mc-mods/minecraft/243822-codechicken-core-1-8)
 
-[Code Chicken Lib]
+[Code Chicken Lib](https://mods.curse.com/mc-mods/minecraft/242818-codechicken-lib-1-8)
 
-[CoFHCore]
+[CoFHCore](https://mods.curse.com/mc-mods/minecraft/cofhcore)
 
-[Colossal Chests]
+[Colossal Chests](https://mods.curse.com/mc-mods/minecraft/237875-colossal-chests)
 
-[Common Capabilities]
+[Common Capabilities](https://mods.curse.com/mc-mods/minecraft/247007-common-capabilities)
 
-[Compact Solars]
+[Compact Solars](https://mods.curse.com/mc-mods/minecraft/228759-compact-solars)
 
-[Compat Layer]
+[Compat Layer](https://mods.curse.com/mc-mods/minecraft/253729-compatlayer)
 
 [Controlling]
 
