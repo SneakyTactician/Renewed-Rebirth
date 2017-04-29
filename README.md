@@ -26,6 +26,12 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Fence Overhaul](https://mods.curse.com/mc-mods/minecraft/246222-fence-overhaul)
 
+[Actually Additions](https://minecraft.curseforge.com/projects/actually-additions)
+
+[Actually Computers](https://mods.curse.com/mc-mods/minecraft/253005-actuallycomputers)
+
+[Advanced Solar Panels](https://mods.curse.com/mc-mods/minecraft/252714-advanced-solar-panels)
+
 # Shaders
 
 
