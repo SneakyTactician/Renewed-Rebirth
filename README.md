@@ -78,9 +78,9 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Chest Transporter](https://mods.curse.com/mc-mods/minecraft/chest-transporter)
 
-[Chicken Chunks]
+[Chicken Chunks](https://mods.curse.com/mc-mods/minecraft/243883-chicken-chunks-1-8)
 
-[Chisel]
+[Chisel](https://github.com/Chisel-Team/Chisel)
 
 [Chisels and Bits]
 
