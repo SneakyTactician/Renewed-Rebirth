@@ -1,4 +1,5 @@
 # Renewed-Rebirth
+
 A Minecraft modpack
 
 AT launcher compatible.
@@ -32,6 +33,49 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Advanced Solar Panels](https://mods.curse.com/mc-mods/minecraft/252714-advanced-solar-panels)
 
+[Akashic Tome]
+
+[Apple Shields]
+
+[Apple Skin]
+
+[Applied Energistics 2]
+
+[Auto Reg Lib]
+
+[Base]
+
+[Baubles]
+
+[Bdlib]
+
+[Bed Bugs]
+
+[Better Builder's Wand]
+
+[Better Foliage]
+
+[Better FPS]
+
+[Biomes O' Plenty]
+
+[Bloodmoon]
+
+[Bookshelf]
+
+[Botnia]
+
+[Brandon's Core]
+
+[Calculator]
+
+[Ceramics]
+
+[Chameleon]
+
+[Chest Transporter]
+
+[Chicken Chunks]
 # Shaders
 
 
