@@ -227,23 +227,23 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Mcjty lib](https://mods.curse.com/mc-mods/minecraft/233105-mcjtylib)
 
-[MC Multipart]
+[MC Multipart](https://mods.curse.com/mc-mods/minecraft/239431-mcmultipart#t1:description)
 
-[More Shears]
+[More Shears](https://mods.curse.com/mc-mods/minecraft/247321-more-shears)
 
-[Morpheus]
+[Morpheus](https://mods.curse.com/mc-mods/minecraft/morpheus)
 
-[Morph-o-Tool]
+[Morph-o-Tool](https://mods.curse.com/mc-mods/minecraft/245287-morph-o-tool)
 
-[Mouse Tweaks]
+[Mouse Tweaks](https://mods.curse.com/mc-mods/minecraft/mouse-tweaks)
 
-[Moving World]
+[Moving World](https://mods.curse.com/mc-mods/minecraft/230495-movingworld)
 
-[Natura]
+[Natura](https://mods.curse.com/mc-mods/minecraft/natura)
 
-[Neat]
+[Neat](https://mods.curse.com/mc-mods/minecraft/238372-neat)
 
-[Nether Core]
+[Nether Core](https://mods.curse.com/mc-mods/minecraft/241576-nether-core)
 
 [Nether Portal Fix]
 
