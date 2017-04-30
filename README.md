@@ -173,23 +173,23 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Forestry](https://forestryforminecraft.info/)
 
-[FTB Lib]
+[FTB Lib](https://mods.curse.com/mc-mods/minecraft/237167-ftblib)
 
-[FTB Utilities]
+[FTB Utilities](https://mods.curse.com/mc-mods/minecraft/237102-ftb-utilities)
 
-[Fullscreen Windowed]
+[Fullscreen Windowed](https://mods.curse.com/mc-mods/minecraft/227441-fullscreen-windowed-borderless-for-minecraft)
 
-[Funnels]
+[Funnels](https://mods.curse.com/mc-mods/minecraft/246215-funnels)
 
-[Gendustry]
+[Gendustry](https://bdew.net/gendustry/)
 
-[Generators]
+[Generators](https://bdew.net/generators/)
 
-[Grave Stone]
+[Grave Stone](https://mods.curse.com/mc-mods/minecraft/238551-gravestone-mod)
 
-[Gravitation Suite]
+[Gravitation Suite](https://mods.curse.com/mc-mods/minecraft/253590-gravitation-suite)
 
-[Hammer Core]
+[Hammer Core](https://mods.curse.com/mc-mods/minecraft/247401-hammer-core)
 
 [Hardcore Darkness]
 
