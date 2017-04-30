@@ -309,25 +309,25 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Super Circuit Maker](https://mods.curse.com/mc-mods/minecraft/248619-super-circuit-maker)
 
-[Surge]
+[Surge](https://mods.curse.com/mc-mods/minecraft/250290-surge)
 
-[Tinker's Construct]
+[Tinker's Construct](https://mods.curse.com/mc-mods/minecraft/tinkers-construct)
 
-[Teleporters]
+[Teleporters](https://mods.curse.com/mc-mods/minecraft/241588-simple-teleporters)
 
-[Tesla]
+[Tesla](https://mods.curse.com/mc-mods/minecraft/244651-tesla)
 
-[Tesla Coils]
+[Tesla Coils](https://mods.curse.com/mc-mods/minecraft/247619-tesla-coils)
 
-[The Beneath]
+[The Beneath](https://mods.curse.com/mc-mods/minecraft/254629-the-beneath)
 
-[Thermal Expansion]
+[Thermal Expansion](https://mods.curse.com/mc-mods/minecraft/thermalexpansion)
 
-[[Thermal Foundation]
+[Thermal Foundation](https://mods.curse.com/mc-mods/minecraft/222880-thermal-foundation)
 
-[Thermal Smeltry]
+[Thermal Smeltry](https://mods.curse.com/mc-mods/minecraft/222880-thermal-foundation)
 
-[Tinker IO]
+[Tinker IO](https://mods.curse.com/mc-mods/minecraft/229503-tinker-i-o)
 
 [Tinkers' Addons]
 
