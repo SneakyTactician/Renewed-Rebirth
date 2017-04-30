@@ -283,31 +283,31 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Shadow MC](https://mods.curse.com/mc-mods/minecraft/226780-shadowmc)
 
-[Shetiphian Core]
+[Shetiphian Core](https://mods.curse.com/mc-mods/minecraft/shetiphiancore)
 
-[Simple Corn]
+[Simple Corn](https://mods.curse.com/mc-mods/minecraft/246761-simple-corn)
 
-[Simple Generators]
+[Simple Generators](https://mods.curse.com/mc-mods/minecraft/246010-simple-generators)
 
-[Simple Ore Gen]
+[Simple Ore Gen](https://mods.curse.com/mc-mods/minecraft/243158-simpleoregen)
 
-[Solar Flux Reborn]
+[Solar Flux Reborn](https://mods.curse.com/mc-mods/minecraft/246974-solar-flux-reborn)
 
-[Sonar Core]
+[Sonar Core](https://mods.curse.com/mc-mods/minecraft/239418-sonar-core)
 
-[Sound Filters]
+[Sound Filters](https://mods.curse.com/mc-mods/minecraft/222789-sound-filters)
 
-[Special AI]
+[Special AI](https://mods.curse.com/mc-mods/minecraft/224301-special-ai)
 
-[Steve's Carts]
+[Steve's Carts](https://mods.curse.com/mc-mods/minecraft/253462-steves-carts-reborn)
 
-[Steve's Factory Manager]
+[Steve's Factory Manager](https://mods.curse.com/mc-mods/minecraft/253338-steves-factory-manager-reborn)
 
-[Storage Drawers]
+[Storage Drawers](https://mods.curse.com/mc-mods/minecraft/223852-storage-drawers)
 
-[Streams]
+[Streams](https://mods.curse.com/mc-mods/minecraft/229769-streams)
 
-[Super Circuit Maker]
+[Super Circuit Maker](https://mods.curse.com/mc-mods/minecraft/248619-super-circuit-maker)
 
 [Surge]
 
