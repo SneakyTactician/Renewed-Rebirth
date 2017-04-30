@@ -329,31 +329,31 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Tinker IO](https://mods.curse.com/mc-mods/minecraft/229503-tinker-i-o)
 
-[Tinkers' Addons]
+[Tinkers' Addons](https://mods.curse.com/mc-mods/minecraft/245549-tinkers-addons)
 
-[Tinker Tool Leveling]
+[Tinker Tool Leveling](https://mods.curse.com/mc-mods/minecraft/250957-tinkers-tool-leveling)
 
-[Torchmaster]
+[Torchmaster](https://mods.curse.com/mc-mods/minecraft/254268-torchmaster)
 
-[Translocators]
+[Translocators](https://mods.curse.com/mc-mods/minecraft/247695-translocators-1-8)
 
-[Uni Dict]
+[Uni Dict](https://mods.curse.com/mc-mods/minecraft/244258-unidict)
 
-[Valkyrie Lib]
+[Valkyrie Lib](https://mods.curse.com/mc-mods/minecraft/245480-valkyrielib)
 
-[Waila]
+[Waila](https://mods.curse.com/mc-mods/minecraft/waila)
 
-[Waila Harvestability]
+[Waila Harvestability](https://mods.curse.com/mc-mods/minecraft/waila-harvestability)
 
-[Wanion Lib]
+[Wanion Lib](https://mods.curse.com/mc-mods/minecraft/253043-wanionlib)
 
-[Wawla]
+[Wawla](https://mods.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
 
-[WTF Core]
+[WTF Core](https://mods.curse.com/mc-mods/minecraft/231301-wtfcore)
 
-[WTF World Gen]
+[WTF World Gen](https://mods.curse.com/mc-mods/minecraft/227931-wtfs-expedition-cavebiomes-ores-trees-and-tweaks)
 
-[Zero Core]
+[Zero Core](https://mods.curse.com/mc-mods/minecraft/247921-zerocore)
 
 # Shaders
 
