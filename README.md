@@ -191,41 +191,41 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Hammer Core](https://mods.curse.com/mc-mods/minecraft/247401-hammer-core)
 
-[Hardcore Darkness]
+[Hardcore Darkness](https://mods.curse.com/mc-mods/minecraft/225957-hardcore-darkness)
 
-[Hardcore Wither]
+[Hardcore Wither](https://mods.curse.com/mc-mods/minecraft/237407-hardcore-wither)
 
-[Headcrumbs]
+[Headcrumbs](https://mods.curse.com/mc-mods/minecraft/222838-headcrumbs)
 
-[Help Fixer]
+[Help Fixer](https://mods.curse.com/mc-mods/minecraft/223797-helpfixer)
 
-[Industrialcraft 2]
+[Industrialcraft 2](https://mods.curse.com/mc-mods/minecraft/242638-industrial-craft)
 
-[Infernal Mods]
+[Infernal Mobs](https://mods.curse.com/mc-mods/minecraft/227875-atomicstrykers-infernal-mobs)
 
-[Inventory Sorter]
+[Inventory Sorter](https://mods.curse.com/mc-mods/minecraft/240633-inventory-sorter)
 
-[Inventory Tweaks]
+[Inventory Tweaks](https://mods.curse.com/mc-mods/minecraft/223094-inventory-tweaks)
 
-[Iron Backpacks]
+[Iron Backpacks](https://mods.curse.com/mc-mods/minecraft/227049-iron-backpacks)
 
-[Iron Chest]
+[Iron Chest](https://mods.curse.com/mc-mods/minecraft/228756-iron-chests)
 
-[Just Enough Items]
+[Just Enough Items](https://mods.curse.com/mc-mods/minecraft/238222-just-enough-items-jei)
 
-[JEI Bees]
+[JEI Bees](https://mods.curse.com/mc-mods/minecraft/248370-jei-bees)
 
-[Journey Map]
+[Journey Map](https://mods.curse.com/mc-mods/minecraft/248370-jei-bees)
 
-[Just Enough Resources]
+[Just Enough Resources](https://mods.curse.com/mc-mods/minecraft/240630-just-enough-resources-jer)
 
-[Levels]
+[Levels](https://mods.curse.com/mc-mods/minecraft/235552-levels)
 
-[Lycanites Mobs Complete]
+[Lycanites Mobs Complete](http://lycanitesmobs.com/)
 
-[Mantle]
+[Mantle](https://mods.curse.com/mc-mods/minecraft/mantle)
 
-[Mcjty lib]
+[Mcjty lib](https://mods.curse.com/mc-mods/minecraft/233105-mcjtylib)
 
 [MC Multipart]
 
