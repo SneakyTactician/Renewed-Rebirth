@@ -323,7 +323,7 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Thermal Expansion]
 
-[Thermal Foundation]
+[[Thermal Foundation]
 
 [Thermal Smeltry]
 
@@ -393,6 +393,8 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 # Resourcepacks
 
-
+[Soartex Fanver]
 
 # Soundpack(s)
+
+[Sn0wZ0ne]
