@@ -357,6 +357,39 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 # Shaders
 
+[Chocapic13 Extreme]
+
+[Chocapic13 Lite]
+
+[Continuum Cinematic]
+
+[Continuum Extreme]
+
+[Docteur Dreads Extreme]
+
+[Docteur Dreads Lite]
+
+[KUDA Lite]
+
+[KUDA Ultra]
+
+[Lagless Lite]
+
+[Mr. Meep Lite]
+
+[Mr. Meep Ultra]
+
+[SEUS]
+
+[Sildur's Vibrant Extreme]
+
+[Sildur's Vibrant High]
+
+[Sildur's Vibrant Medium]
+
+[Sildur's Vibrant Lite]
+
+[Super Shaders]
 
 # Resourcepacks
 
