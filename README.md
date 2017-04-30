@@ -273,15 +273,15 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Railcraft](https://mods.curse.com/mc-mods/minecraft/railcraft)
 
-[Reborn Core]
+[Reborn Core](https://mods.curse.com/mc-mods/minecraft/237903-reborncore)
 
-[Redstone Paste]
+[Redstone Paste](https://mods.curse.com/mc-mods/minecraft/redstone-paste)
 
-[Roguelike Dungeons]
+[Roguelike Dungeons](https://mods.curse.com/mc-mods/minecraft/221585-roguelike-dungeons)
 
-[Rough Mobs]
+[Rough Mobs](https://mods.curse.com/mc-mods/minecraft/245849-rough-mobs)
 
-[Shadow MC]
+[Shadow MC](https://mods.curse.com/mc-mods/minecraft/226780-shadowmc)
 
 [Shetiphian Core]
 
