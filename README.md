@@ -245,7 +245,7 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Nether Core](https://mods.curse.com/mc-mods/minecraft/241576-nether-core)
 
-[Nether Portal Fix]
+[Nether Portal Fix](https://mods.curse.com/mc-mods/minecraft/241160-netherportalfix)
 
 [No Sleeping Allowed] by SneakyTactician
 
