@@ -247,31 +247,31 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Nether Portal Fix](https://mods.curse.com/mc-mods/minecraft/241160-netherportalfix)
 
-[No Sleeping Allowed] by SneakyTactician
+[No Sleeping Allowed](https://mods.curse.com/mc-mods/minecraft/264391-no-sleeping-allowed) by SneakyTactician
 
-[Not Enough Items]
+[Not Enough Items](https://mods.curse.com/mc-mods/minecraft/247694-not-enough-items-1-8)
 
-[Om Lib]
+[Om Lib](https://mods.curse.com/mc-mods/minecraft/254334-omlib)
 
-[Open Computers]
+[Open Computers](https://mods.curse.com/mc-mods/minecraft/223008-opencomputers)
 
-[Open Modular Turrets]
+[Open Modular Turrets](https://mods.curse.com/mc-mods/minecraft/224663-openmodularturrets)
 
-[OptiFine]
+[OptiFine](http://optifine.net/home)
 
-[Ore Dictionary Converter]
+[Ore Dictionary Converter](https://mods.curse.com/mc-mods/minecraft/227564-oredictionaryconverter)
 
-[Pam's HarvestCraft]
+[Pam's HarvestCraft](https://mods.curse.com/mc-mods/minecraft/221857-pams-harvestcraft)
 
-[Platforms]
+[Platforms](https://mods.curse.com/mc-mods/minecraft/244786-platforms)
 
-[Psi]
+[Psi](https://mods.curse.com/mc-mods/minecraft/244786-platforms)
 
-[Quantum Storage]
+[Quantum Storage](https://mods.curse.com/mc-mods/minecraft/235121-quantumstorage)
 
-[Quark]
+[Quark](https://mods.curse.com/mc-mods/minecraft/243121-quark)
 
-[Railcraft]
+[Railcraft](https://mods.curse.com/mc-mods/minecraft/railcraft)
 
 [Reborn Core]
 
