@@ -5,17 +5,17 @@ fov:0.0
 gamma:1.0
 saturation:0.0
 renderDistance:8
-guiScale:0
+guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:260
+maxFps:120
 fboEnable:true
 difficulty:2
 fancyGraphics:false
 ao:0
 renderClouds:fast
-resourcePacks:["Sn0wZ0ne2.0.5-64x_All_versions","Soartex_Fanver"]
+resourcePacks:["WTFExpedition","Soartex_Fanver","Sn0wZ0ne2.0.5-64x_All_versions"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_US
@@ -25,8 +25,8 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:false
-enableVsync:true
+fullscreen:true
+enableVsync:false
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -39,8 +39,8 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-showInventoryAchievementHint:true
-mipmapLevels:4
+showInventoryAchievementHint:false
+mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
@@ -48,9 +48,9 @@ entityShadows:true
 mainHand:right
 attackIndicator:1
 showSubtitles:false
-realmsNotifications:true
+realmsNotifications:false
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -87,10 +87,6 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
-key_cfg.keybind.SelectionBox:48
-key_cfg.keybind.LightLevel:38
-key_cfg.keybind.ChunkBorders:67
-key_cfg.keybind.Volume:47
 key_psimisc.keybind:46
 key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
@@ -125,10 +121,6 @@ key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
 key_enderutilities.key.togglemode:34
-key_Open Menu:25
-key_Toggle Freeze Effect:19
-key_Enable/Disable:0
-key_Kill Particles:0
 key_key.ftbu.guide:0
 key_key.ftbu.warp:0
 key_Gravi Fly Key:33
@@ -212,11 +204,10 @@ key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
 key_key.craftingGrid:46
-key_key.betterfoliage.gui:66
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:27
+key_key.journeymap.minimap_type:26
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
@@ -239,8 +230,8 @@ key_nei.options.keys.world.midnight:0
 key_nei.options.keys.world.rain:0
 key_nei.options.keys.world.heal:0
 key_nei.options.keys.world.creative:0
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.5562914
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

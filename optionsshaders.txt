@@ -1,5 +1,5 @@
-#Sat Apr 29 14:32:10 CDT 2017
-shaderPack=Lagless-Shaders-Lite-1.10.2.zip
+#Sat Apr 29 23:33:12 CDT 2017
+shaderPack=Sildurs Vibrant Shaders v1.161 High.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
