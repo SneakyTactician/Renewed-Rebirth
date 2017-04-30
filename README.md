@@ -169,9 +169,9 @@ This modpack might not run on your computer right out of the box. If it doesn't,
 
 [Flux Networks](https://mods.curse.com/mc-mods/minecraft/248020-flux-networks)
 
-[Foam Fix]
+[Foam Fix](http://asie.pl/Projects/Minecraft/Mods/FoamFix/)
 
-[Forestry]
+[Forestry](https://forestryforminecraft.info/)
 
 [FTB Lib]
 
